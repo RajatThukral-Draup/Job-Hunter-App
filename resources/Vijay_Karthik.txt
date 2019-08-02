@@ -1,0 +1,102 @@
+CURRICULUM VITAE
+Mr. Vijay Karthik P
+Email :vjykrthk@gmail.com
+Mobile :7259960411
+Phone :26655350
+Career Objective:
+To obtain a challenging position with career growth opportunities and to be associated with a progressive
+organization that gives me scope to exhibit and enhance my knowledge and skills.
+Experience
+Axisrooms (February 2016 - Present)
+Senior Software Engineer
+Worked on 3 Projects
+Rate Shopper -
+Description - A Web application presenting hotel prices from various Online Travel Agents
+Role -
+• Writing scrapers to scrap rates from Online Travel Agents.
+• Writing backend code for generating reports, on demand rate scraping, scheduled
+scraping
+• Writing backend API for UI and external services to send request for generating report,
+etc ..
+• Mentoring other less experienced developers
+• Occasionally Worked on UI when UI developer was not present
+Technology - Python, Scrapy, Flask, Javascript, Node.js, Express.js, MongoDB, Angular.js,
+Angular, AWS, Hertzner, S3
+Revenue Management -
+Description - An application to optimize the prices being set for hotels on Online Travel Portals
+Role -
+• Worked on one of the module which optimized hotel prices based competitor hotel prices
+Technology -
+Python, Django, Javascript, Angular.js, MongoDB, AWS, Hertzner
+Vacation Rental -
+Description - Vacation Rentals are Portals for renting out homes, apartment on a day to day
+basis. With the popularity of these portals, an increasing number of hotels wanna rent their
+rooms on these portals. Vacation Rental Application facilitates hotels to rent their rooms, update
+their prices, inventory in these portals.
+Role -
+• Worked on the module for pushing prices, inventory to these portals.
+• Worked on booking flow
+Technology - Python, Django, Javascript, Angular.js, Postgresql, Hertzner, Docker, Ansible
+Codebrahma (July 2014 - February 2016)
+Software Engineer
+Worked on 3 Projects
+Analytics Platform -
+Description - Data analytics product to analysis data given the DB details like Host, Database
+name etc. DB's that were supported when I worked were Mysql, Postgres, Oracle.
+Role -
+• Worked on UI componenents for visualizing data with charts like Bar Charts, Histograms
+etc
+Technology - Javascript, Angular.js, D3.js, C3.js, Bootstrap, HTML, CSS
+Job Portal -
+Description - Self descriptive.
+Role -
+• Worked on backend sending scheduled email to job seekers with jobs matching there
+profile. Same for job providers sending scheduled emails with candidates matching there
+job description.
+Technology - Ruby, Ruby On Rails, Apache Solr, Javascript, Angular.js, Mysql, Heroku
+E-commerce portal
+Description - E-commerce portal selling high end clothing lines.
+Role -
+• Worked on payment flow using CCAvenue
+• Worked on creating bulk items given in excel sheets
+Technology - Ruby, Ruby On Rails, Spree Commerce, Javascript, Capistrano, Postgresql, AWS
+Passportparking llc(Oct 2013 - March 2014)
+Software Engineer
+Worked on 2 Project
+Web appplication for parking lot owners
+Description - Web application where parking lot owners can set parking rates.
+Role -
+• Worked on redesigning UI and making it responsive
+• Fixing bugs
+Technology - Java, GWT, PHP, Slim PHP, Bootstrap, HTML, CSS
+Android Application for parking inspector
+Description -
+An android application which enabled parking inspector generate parking violation tickets
+Role -
+• Fixing bugs related different mobile manufactures
+Technology - Java, Android
+Bizexpatiate, Bengaluru(2010-2013)
+Data researcher
+Technical Skill Set:
+● Programming Languages: Python, Javascript, Java, Ruby
+● Frameworks & libraries: Django, Flask, Angular.js, Angular, Jquery, Express, Android
+● Operating system: Ubuntu
+● Version Control: Git
+● Database: Postgres, MongoDB
+● Dev ops: AWS, Hertzner, Heroku, Docker, Ansible, Nginx
+Educational Qualification:
+● BE(Course Completed) in Computer Science, 2009, TOCE (VTU), Karnataka
+● P.U.C (PCMC) at Sudarshan Vidya Mandir Pre-University College, Jayanagar with 57%.
+● S.S.L.C at Sudarshan Vidya Mandir with 60%
+Personal Details:
+Name :Mr.Vijay Karthik P
+Address :#1518, 39th‘F’
+cross,
+22nd
+main, 4th
+‘T’ Block,
+Jayanagar,
+Bangalore- 560041
+Languages :English, Kannada, Tamil, Hindi
+Date of Birth :3rd Oct. 1987
+

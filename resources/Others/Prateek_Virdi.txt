@@ -1,0 +1,90 @@
+PRATEEK VIRDI
+Email: virdiprateek93@gmail.com
+LinkedIn: www.linkedin.com/in/prateek-virdi-69b837b6
+Cell: +91-8360489979
+ERSONAL DETAILS
+OBJECTIVE
+Aiming to seek an opportunity to work in an organization, where I shall be able to utilize my analytical skills and
+knowledge to help the organization meet its business goals while adhering to the vision, mission and values and in
+turn gaining the expertise that would help me in building a strong and successful career.
+SKILLS
+ Basic Programming/Software: C++, Python, MySQL, MATLAB, Tableau
+ Certifications: MOOCs in Machine Learning and Applied Data Science with Python
+ Computer Software: MS-Word, Advanced Excel, PowerPoint
+EDUCATIONAL QUALIFICATION
+SHORT TERM COURSES
+ Modeling Physical Systems and Electric Power Systems with Simscape by MathWorks held at NITTTR, Chandigarh
+ Used MATLAB to support data analysis and simulation, while using a full set of statistics and machine
+learning functionality, high speed processing of large data sets, data cleaning, features extraction and classification
+ PCB designing workshop by RS Design Spark held at NITTTR, Chandigarh
+PUBLICATIONS (CONFERENCES)
+ Discrete Wavelet Packet based Elbow Movement Classification using Fine Gaussian SVM (at IEEE 1st
+International
+Conference on Power Electronics, Intelligent Control and Energy Systems, Delhi Technical University, July - 2016)
+ Denoising, feature extraction, and classification are proposed based on Wavelet Packet Transform (WPT) of surface
+Electromyogram signal (sEMG) using Fine Gaussian SVM classifier to achieve accuracy of 92.8%.
+ Frequency Domain (TFD) feature extraction so that the possibility of Mean Square Error (MSE) should be minimum.
+ Low training time and fast speed of response, can help in achieving control of the external robotic device in future
+work
+ Home Automation Control System Implementation using SSVEP based Brain Computer Interface (at IEEE
+International Conference on Inventive Computing and Informatics, Coimbatore, Nov- 2017)
+ Feature extraction using minimum energy combination - helps in the computation of the Signal to Noise Ratio (SNR)
+analogous to the LED flickering frequencies mounted on the visual panel.
+ Classification of features has been done using Linear Discriminant Analysis to achieve 84.8% accuracy.
+ The intended control commands (output classes) have been sent to the Arduino for controlling the home appliances.
+EXAM PASSED
+UNIVERSITY/BOARD
+(YEAR OF COMPLETION)
+INSTITUTE/COLLEGE PERCENTAGE
+M.E.(Electrical Engineering)
+in Instrumentation & Control
+Panjab University
+(2017)
+National Institute of Technical Teachers
+Training and Research, Chandigarh
+81.4%
+B.TECH (Electronics and
+Communication)
+Punjab Technical University
+(2015)
+Guru Nanak Dev Engineering College,
+Ludhiana
+81.57%
+XIIth
+CBSE (2011) Dewan Public School 93.2%
+Xth
+ICSE (2009) Sophia Girls School 90.6%
+ACADEMIC PROJECTS
+ Thesis on Steady State Visual Evoked Potential based Brain Computer Interface to control the Home Appliances
+ Non-Invasive Mind Machine Interface based on the SSVEP control modality for controlling the home appliances in an
+offline environment.
+ The Minimum Energy block: artifact removal, estimate signal to noise ratio
+ The data from 10 subjects has been used to train the LDA classifier model resulted in an accuracy of 84.8%, which has
+been used for validation on data of two subjects resulting in accuracy of 80.6% and 81.8% respectively.
+ Automatic Auditorium Controller Project in Embedded System
+ Infrared sensor on entrance and exit of door to detect people
+ LCD display for estimating count of persons present in the auditorium
+ Helped in automatic control reducing the manual effort to turn on/off the load
+INDUSTRIAL TRAINING
+ Three months Internship in “Data Science and Machine Learning”, at Zinnov Management Consulting, Bangalore, May
+2018
+ Six months Industrial training on “Embedded Systems Technology”, STEP, GNDEC, Ludhiana, 2015
+ Autonomous robot for obstacle detection and collision avoidance
+ Six weeks training of “CCNA Project on NAT” using packet tracer at NETMAX Technologies, Patiala, 2013
+ Network address translation (NAT) saves public IP addresses. Because a client only needs a public IP address when
+it is communicating with the Internet, the pool of globally routable IP addresses can be shared with other clients
+ACHIEVEMENTS AND EXTRA-CURRICULAR ACTIVITIES
+ Participated in Bhangra at a Cultural Programme on the eve of 48th
+Annual Day Programme at NITTTR, Chandigarh
+ Secured 2nd
+position in Inter-College Chess Tournament, PTU
+ Member of organizing committee in Swami Vivekanand PTU Zonal Youth Festival, 2013
+ School Topper in English in 12th Board Exams
+ Recipient of ICSE Scholarship in Mathematics in Class 10th
+for scoring 100 marks in board exams.
+PERSONAL VITAE
+ Date of Birth - March 16th
+, 1993
+ Gender - Female
+ Location - Meerut, India
+

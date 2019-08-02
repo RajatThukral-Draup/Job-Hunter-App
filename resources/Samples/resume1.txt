@@ -1,0 +1,83 @@
+Arpan Sen
+Data Scientist
+Data Scientist (ML Developer) with 2 years of hands - on experience
+in implementing solutions in Natural Language Processing and
+Computer Vision using Machine Learning tools & techniques.
+s.arpan1993@gmail.com
++91 9874579505
+94, Rastraguru Avenue, Dumdum, Kolkata, India - 700028
+linkedin.com/in/arpan-sen-b75934b7
+WORK EXPERIENCE
+06/2018 – Present
+Data Scientist
+Zinnov Management Consulting Pvt. Ltd.
+Bengaluru, India
+06/2016 – 05/2018
+Machine Learning Developer
+Tata Consultancy Services
+Kolkata, India
+RECENT PROJECTS
+Social Media Proﬁle Matching [Zinnov]
+Identifying attributes for various social media platforms like
+Linkedin, Twitter, Crunchbase etc. to match proﬁles.
+Similarity score generation between two possible candidate
+proﬁles using similarity metrics and text embeddings.
+Training a binary classiﬁer to predict whether two proﬁles from
+diﬀerent platforms belong to the same person.
+Tools Used - Python, Spark, NLTK, Doc2Vec
+Ad-hoc Query Filtering from Text Input [Large Retail
+& CPG Client]
+Designed ﬁlter extraction technique from text using NLP.
+Developed default ﬁlter recommendation system based on
+usage pattern.
+Tools Used - Python, NLTK, Rasa.ai
+Activity Recognition from Short Video Clips [TCS
+Internal]
+Pre-processing of raw YouTube video clips.
+Designed and trained Deep CNN using transfer learning with
+Inception-v3.
+Tools Used - Python, TensorFlow, Amazon EC2
+EDUCATION
+07/2012 – 05/2016
+BE (Computer Science & Technology)
+Indian Institute of Engineering, Science and
+Technology (IIEST), Shibpur
+9.41 (GPA)
+04/2010 – 03/2012
+12th Standard
+St. Stephen's School
+97% (Score)
+04/2000 – 03/2010
+10th Standard
+St. Stephens School
+97% (Score)
+SKILLS
+Python
+Deep Learning
+TensorFlow
+Keras
+DialogFlow & LUIS
+NLTK
+Microsoft Azure ML
+Amazon Web Services
+Spark (Pyspark)
+ACHIEVEMENTS
+Excellence Award in Digital Delivery at Tata
+Consultancy Services (2017)
+Gouri & Jitendra Mohan Mazumder Undergraduate
+Research Award at IIEST Shibpur (2016)
+TRAINING & CERTIFICATIONS
+Deep Learning: Applications in Vision, Speech and Text
+Analytics (05/2017 – 07/2017)
+Oﬀered by VideoKEN (in association with Tata Consultancy Services)
+PUBLICATIONS
+Study of Engineered Features and Learning Features in
+Machine Learning – A Case Study in Document
+Classiﬁcation (12/2016)
+8th International Conference on Intelligent Human Computer Interaction
+(IHCI), 2016, Bits Pilani, Pilani, Rajasthan
+LANGUAGES
+English
+Hindi
+Bengali
+

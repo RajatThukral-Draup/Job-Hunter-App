@@ -1,0 +1,311 @@
+Page
+1 of 4
+YOGESH CHAUDHARI
+Email: mr.yogesh@gmail.com
+Phone: +91 9741990907
+Address: 4-Surya Park, 137/2-7 Vidya Vilas Colony,
+Off ITI Road, Aundh, Pune- 411007,
+Maharashtra, India
+Synopsis
+An Engineering graduate with more than 3 years of experience in embedded technologies
+
+Specialization in Electronics from University of Pune, India
+
+Professional diploma in Embedded System Design from Centre for Development of Advanced
+
+Computing, Pune (CDAC)
+Experience in developing working models based on Embedded systems
+
+Areas of interest include Digital Signal Processing, Embedded Systems and Computer Networks
+
+Adept at decision making through analysis of quantitative and qualitative data
+
+Expertise in Analysis, Development & Deployment of BSP for ABB Paint robots based on Linux
+
+Development using C and Python
+
+In-depth knowledge of Operating Systems and Embedded Systems Concepts
+
+Worked extensively on Embedded Systems used in ABB’s robot controllers
+
+Software Engineering Skills
+Skills Description
+Analysis & Design,
+Development
+Requirement Analysis, System Design and Review
+
+Application Implementation, Test cases design & development, User
+
+acceptance, Documentation
+Programming Languages Proficiency in C in UNIX/LINUX environment
+
+Programming of Powerpc processors.
+
+Trace32
+
+Python
+
+Operating Systems DOS, WINDOWS and Linux platforms
+
+Integrated Development
+Environments (IDE)
+Visual Studio 2008
+
+Eclipse (CDT)
+
+Configuration Management SVN
+
+GIT
+
+Hardware Systems PC assembling, installation and networking (A+, N+)
+
+Office Productivity
+Software
+MS-Office
+
+Experience
+Asea Brown Boveri [http://www.abb.com]
+Duration – February 2008 – till date (2 years 7 months)
+Function – Embedded Developer
+Location – Bangalore, India; Stavanger, Norway
+About
+ABB is a Swiss-Swedish multinational corporation headquartered in Zürich, Switzerland, operating mainly in the
+power and automation technology areas. ABB is one of the largest engineering companies as well as one of the
+largest conglomerates in the world. ABB has operations in around 100 countries, with approximately 117,000
+employees, and reported global revenue of $31.8 billion for 2009. ABB is traded on the SIX Swiss Exchange in Zürich
+and the Stockholm Stock Exchange in Sweden since 1999, and the New York Stock Exchange in the United States
+since 2001. ABB is ranked 237th on Fortune 500 list. ABB key business areas include Power Products, Power Systems,
+Discrete Automation and Motion, Low Voltage Products and Process Automation.
+Resume of Yogesh Chaudhari
+Page
+2 of 4
+Projects
+Project Description
+Name Embedded Linux for Integrated Paint System - eLIPS
+Client NOATM, SEROP
+Work Location Bangalore
+Duration Since Feb 2008.
+Description This project evaluated the real time properties of preempt_rt linux to deploy Linux based BSP
+(board support package) for use in IPS(Integrated Paint System) of ABB’s paint robots and
+validate its performance in real world applications.
+Team Size 4 persons
+Responsibilities Porting rt-preempt linux and u-boot to the paint interface board.
+
+Patch management.
+
+Testing and analysis of real-time performance for rt-preempt on PIB.
+
+Lauterbach scripts for porting boot-loader to PIB.
+
+Developed code for multiport PTPd from the IEEE1588 specifications for precise time
+
+synchronization.
+Release manager for all incremental and final release of eLIPS.
+
+Configuration management
+
+Operating
+System
+Windows 7, Linux, preempt_rt patch
+Languages C, Trace32, shell script
+Development
+Tools
+Visual Studio, Vim,
+Other Tools
+Trace32 Debugging Tool, SVN, TFS, gdb, eldk cross-compilers
+Customer
+Benefit
+In case of propriety RTOS like vxWorks a large amount of time and money had to be invested in
+terms of both development and licensing cost. Also much time was required to port ABB
+applications to APIs that were not completely POSIX compliant and it increased the reliance on
+single vendor. All these problems could be overcome by using an open source OS like linux
+while still maintaining the real time constraints using preempt_rt patch. This was a research
+project that studied the properties of preempt_rt patched Linux in real world scenarios and
+decided on worst case timings that will satisfy requirements in ABB’s robotic applications
+Project Description
+Name CCPU
+Role Software Developer
+Client NOATM
+Duration July 2009
+Work Location Bangalore
+Description This project involved putting realtime embedded Linux on the MPC5200 based CCPU board.
+The CCPU is a piggyback board and the application running on it depends on where it is
+mounted. This project follows CMMi Level 5 standards.
+Team Size 1 person
+Responsibilities Writing a user space driver for detecting configuration of underlying board.
+
+Open source software license compliance
+
+Create a Install image for installing IPS on Linux BSP provided and develop, present and
+
+merge into NOATM build system
+Provide a mechanism for field upgrade of BSP provided in case of newer releases
+
+Startup scripts to start various applications and daemons on board boot-up
+
+To identify and perform tests to check the real-time properties of Linux kernel and
+
+integrate them into NOATM BVT (build verification test) system using python scripts.
+Operating
+System
+Windows 7, Linux, preempt_rt patch
+Languages C, Trace32, shell script
+Tools
+Visual Studio, Vim, Trace32 Debugging Tool, SVN, TFS, gdb, eldk cross-compilers
+Resume of Yogesh Chaudhari
+Page
+3 of 4
+Customer Benifit Apart from the obvious benefits that any open source software brings, using an open source
+Linux BSP allowed the customer to use a number of COTS (commercially off the shelf)
+components that drastically reduced the time to marked, especially since many libraries useful
+for robotics applications are readily available for Linux platforms like vision libraries, Ability to
+port languages like python, perl etc which can be readily done on linux but is extremely time
+consuming on other real time platforms like vxworks. Such porting does not provide any value
+addition to ABB robotics and yet increases time to market.
+Project Description
+Name Safety Board
+Role Software Developer
+Work Location Bangalore
+Team size 4 persons
+Description This project involves putting a Linux BSP on the
+MPC8323 based safety board and porting the safety
+application to Linux
+Responsibilities Linux kernel testing – Create an automated tool which will deploy all linux kernel functional
+and performance tests on all embedded boards running on linux BSPs and store the result logs
+on a server.
+Operating
+System
+Linux
+Languages
+C, shell script
+Development
+Tools
+Vim
+Project Description
+Name
+Gandalf – Install Services
+Role Software Developer
+Work Location Bangalore
+Team size 2 persons
+Description This project involves creating debian and red hat package managers for porting robot
+applications to main controller using RobotStudio environment and virtualization
+Responsibilities
+Develop and deploy the build environment for creating and porting applications to main
+controller with VirtualBox and RobotStudio
+Operating
+System
+Linux/Windows
+Languages Shell script, Python
+Development
+Tools
+Vim, VirtualBox
+.
+Project Description
+Name SoftPLC
+Role Software Developer
+Work Location Bangalore
+Team size 5 persons
+Description This project involves creating a software emulation of PLC for Robot.
+Responsibilities Develop and port the implementation of SoftPLC to Linux platform on main controller
+Resume of Yogesh Chaudhari
+Page
+4 of 4
+Operating
+System
+Linux/Windows
+Languages C, Shell script
+Development
+Tools
+Vim, ELDK
+Education
+Degree University (Year) Track Percentage
+Diploma in
+Embedded
+Systems
+Centre for Development of
+Advanced Computing, (CDAC)
+Pune, India (2008)
+DSP, 32-bit microprocessors,
+Operating System Concepts,
+Wireless Embedded Systems Design
+A+ (Amongst the top
+10 in the batch)
+Bachelor of
+Engineering (B.E.)
+Vishwakarma Institute of
+Technology (VIT), University
+of Pune, India (2007)
+Electronics Engineering 62.93 % (First Class)
+Higher Secondary
+Certificate (Std XII)
+Modern College, Pune, India
+(2002)
+Physics, Chemistry, Mathematics 83.33 % (Distinction)
+Senior Secondary
+Certificate (Std X)
+St John’s Sr. Sec. School,
+Chennai, India: Affiliated to
+CBSE curriculum (2000)
+Mathematics, Science 83.35 % (Distinction)
+Certification
+Course
+Indian Institute of Hardware
+Technology
+Networking Certification
+Diploma in Embedded System Design - from CDAC
+DSP - Architecture, Floating point arithmetic, DSP based embedded system design, FFT algorithms, design of FIR
+
+and IIR filters, Audio/Video Coding
+32 bit micro controllers (ARM) - programming in C and Assembly using C and GNU tools and various protocols
+
+like I2c, CAN, USB, PCI etc.
+Operating system concepts - Introduction to OS, Process Management and Inter Process Communication,
+
+Memory management, I/O subsystem, File System Organization, POSIX Thread Programming, Introduction to
+Real-Time / Embedded Operating Systems, Real Time Scheduling, Linux and RTAI Internals, Programming in
+Linux and RTAI, Configuring and Compiling RTAI
+Wireless Embedded Systems Design - Protocol Design and Validation, Network Embedded Systems (Operating
+
+Systems and programming), Bluetooth and IrDA, Wireless Sensor Networks and ZigBee, Wireless LAN - IEEE
+802.11, RFID, GSM and GPRS
+Subject of Interest from Engineering Degree
+Subject Description
+Embedded Systems Introduction to embedded system, General architecture of Embedded systems,
+Embedded systems development, Communication interfaces.
+Academic Projects in Robotics and Embedded Systems
+Traffic signal system with Automatic tracking: A working model of traffic signal system was constructed which
+
+allowed automated tracking of vehicles. This project was based on 8051 micro-controllers and full duplex
+communication system
+Voice over Internet Protocol: Developed the hardware and software required for VoIP using an ARM9 processor
+
+and successfully demonstrated it. This technology reduces the telephony charges of both SOHO users as well as
+large firms to almost nil
+Achievements and Interests
+Stood second in order of merit in Indian Physics Association quiz held in 2000-01
+
+Certificates of Excellence for memory and learning methods, public speaking, human relations and mind science
+
+Qualified first-degree Reiki practitioner
+
+Certified first and second degree Graphologist from Institute of Graphology, Pune, India
+
+Resume of Yogesh Chaudhari
+Page
+5 of 4
+Language Proficiency
+English – Good
+
+Hindi & Marathi - Native
+
+Japanese - Beginner
+
+References
+Gajendra Ramteke, Account Manager – UK and Europe, SYSTIME, London. Phone: +44 7961675300, Email:
+
+gajendra.ramteke@gmail.com
+M. M. Kulkarni, Professor, VIT,Pune Phone: +91 9422303150, Email: mmkvi@rediffmail.com
+
+Shinose Rahiman, Senior Developer, ABB. Phone: +91 9886177431 Email:shinose@gmail.com
+
+

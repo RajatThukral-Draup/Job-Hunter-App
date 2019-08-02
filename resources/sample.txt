@@ -1,0 +1,28 @@
+Job Description
+We are looking for a senior Python developer to work on creating Scalable services. We are a Artificial Intelligence/ML based company and have huge volumes of data so response time and parallelism coupled with scalability is the key for us. You will work with a very proficient, smart and experienced team of developers, researchers and co-founders directly for all application use cases. Someone with entrepreneurial mind-set delivering quick and efficient solutions with good design and architectural patterns will be preferred. If you can think out of the box have good code discipline, then you fit right in.
+
+Responsibilities
+Work with the team to create backend services by translating application storyboards and use cases into functional applications
+Design, build, and maintain efficient, reusable, and reliable Python code
+Ensure the best possible performance, quality, and responsiveness of the applications
+Identify bottlenecks and bugs, and devise solutions to these problems
+Help maintain code quality, organization, and automatization
+Skills And Qualifications
+> 3 years of work-experience in in Python, with knowledge Django Frame work.
+Excellent understanding of machine learning techniques and algorithms, such as k-NN, Naive Bayes, SVM, Decision Forests, Regression Techniques etc.
+Familiarity with some ORM (Object Relational Mapper) libraries
+Familiar with various design and architectural patterns
+Sound knowledge of Databases – Mysql,Postgres is a must
+Deep understanding of how RESTful APIs work
+Able to integrate multiple data sources and databases into one system
+Understanding of the threading limitations of Python, and multi-process architecture
+Understanding of accessibility and security compliance
+Knowledge of user authentication and authorization between multiple systems, servers, and environments
+Experience with Queue based streaming systems like Kafka,Celery
+Understanding of fundamental design principles behind a scalable application
+Able to create database schemas that represent and support business processes
+Strong SQL background should be able to do Performance tuning, Design and optimized many MySQL databases and queries
+Proficient understanding of code versioning tools, such as Git
+Familiarity with continuous integration
+Strong unit test and debugging skills
+Ability to communicate complex technical concepts to both technical and non-technical audiences

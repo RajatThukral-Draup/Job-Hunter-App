@@ -1,0 +1,60 @@
+Professional Summary
+Skills
+Work History
+ABHINAV KUMAR
+31 3rd D Cross Road BTM 2nd Stage, Bengaluru, KA 560076 | 953 840 6855 | abhik.chy@gmail.com
+A passionate backend developer with a taste of aesthetic frontend having 3 years of experience
+building enterprise applications.
+Python, Django, Flask, RabbitMQ, Celery, AWS S3
+HTML, CSS, Javascript, Bootstrap, C3.js, Angular
+Docker (Basics)
+06/2017 to Current
+Software Engineer
+AxisRooms Travel Distribution Solutions Pvt. Ltd. – Bengaluru, KA
+Vacation Rentals: A platform to provide solutions to managing listings on Airbnb. A hotelier can
+manage inventories, prices and reservation with the boon of logical rooms.Technologies: Python,
+Django, Django Rest Framework, RabbitMQ, Celery, AWS S3, PostgreSQL, HTML, CSS, Bootstrap,
+Angular 5, C3.js.
+OTA Promotion Services: A microservice to create promotions centrally and publish it on various
+OTAs including Expedia, Booking.com, Cleartrip, travelguru and Goibibo. Technologies: Python,
+Django, Django Rest Framework, RabbitMQ, Celery, PostgreSQL.
+Pick up Graph: A graph for Revenue Management Dashboard which shows daily pick up and
+distribution of stay dates for a particular booking date. Technologies: Python, Django, Django
+Rest Framework, Mongodb, AngularJS, C3.js.
+Tasks Schedulers: Schedulers which run on daily and weekly basis to generate reports interacting
+with 3rd Party APIs and multiple databases. Technologies: Python(Schedule module), Django,
+Sendgrid
+11/2015 to 05/2017
+System Engineer
+Infosys Limited – Bengaluru, KA
+Recommendation Systems: As a part of Knowledge Hub team, created tool for indexing courses,
+videos, documents, employees, etc in ElasticSearch. Technologies: Python, Elasticsearch,
+SQLServer.
+Digital Tutor Analytics Dashboard: A dashboard for admin to track the various user activities using
+responsive charts. Technologies: HTML, CSS, Bootstrap, AngularJS, Nodejs, MongoDb, C3.js
+Education
+Hobbies
+Codehub APIs: Rest APIs for code sharing platform (Codehub) within organization. Technologies:
+Python, Django, Django Rest Framework.
+Data Importers: Python scripts to collect data from multiple live data sources, enriching and
+aggregating data by applying business logics and dumping data in database of
+recommendation system. Technologies: Python, SQL Server
+02/2015 to 06/2015
+Software Developer Intern
+Lama Capital Management – Gurugram, HR
+Risk Management App: An android app to calculate risks in financial derivative market.
+Technologies: Android, Python, Django, Django-rest-framework.
+Scraping Tool: A tool to scrape nseindia.com live data and dump data in database for further
+analysis to calculate risk in financial derivative market. Technologies: Python (requests,
+Beautifulsoup4).
+2015
+Bachleor of Technology: Computer Science & Engineering (71.5%)
+DIT University - Makka Wala, UK
+2010
+High School: Physics., Chemistry, Maths (91%)
+Rose Public School - Darbhanga, BR
+2008
+Seconday School: Maths, Science, Social Science, Sanskrit, Music (91.2)
+Rose Public School - Darbhanga, BR
+Listening Music, Cooking
+

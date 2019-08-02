@@ -1,0 +1,86 @@
+Tarun Khaneja Mobile: +91-9034406598
+(Senior Programmer) Email: tarun4568@gmail.com
+SUMMARY
+3 Years of an experience, working as a Programmer involving development, documentation,
+deployment and testing.
+• Working as Backend Developer.
+• Have good knowledge and experience in Python,Django Spark, Scala, MongoDB, SQL,
+JavaScript, and JQuery.
+• Good knowledge of using charts library to represent the data like HighCharts.
+• Experience in using MVC frameworks like Django (Python Framework)
+• Good interpersonal skills and ability to interact well with clients, peers, and managers.
+• Good troubleshooting techniques.
+PROFESSIONAL EXPERIENCE
+• Working as a Senior Programmer in Flutura Business Solutions, Bengaluru from May 2015 to
+till date.
+• Internship in Infosys Technologies Limited, Mangalore from Jan 2015 to Apr 2015.
+TECHNICAL EXPERIENCE
+Languages C, Python, Scala
+Databases SQL, MongoDB
+Frameworks Django, Spark, Kafka
+Web Technologies HTML, CSS, JavaScript, jQuery
+PROJECTS HANDELED
+AppCenter
+AppCenter is a web application where all the apps of Flutura are integrated. All apps are represented
+by a tile based design. There is an admin module from where we can add new applications and
+assign it to required user.
+There are six modules Project, User, Application, Group, Language and App Center.
+Analysing data
+This is product of Flutura. Which will collect data from source and will store in destination to analyse
+and to perform operations on data. It is still under development.
+Leading Companies Supply Chain Application
+This application is for maintenance of manufacturing plants of leading companies. Company gets to
+know when they need to order raw material for their finished goods. They can check about any
+material that they should keep in their inventory or not and at what amount it should be there. It is
+easy to understand about benefit and profit using this app. This app will tell them what step they
+should take to increase their benefit and where they can achieve more profit. They can create an
+action to perform and achieve the task. History of action creation is maintained to check it out later
+also. Reporting on all parameters and factors are also available respective to their selected option,
+which can be downloaded also in format of csv.
+Admin panel is there to add the new user, to create new group and assign user to group and to pages,
+to reset the password and to update the profiles.
+This application will automatically load the files to database. The SSIS is used to load the files data to
+three layers Staging, Processing and DataMart layer.
+Leading Companies Quality Analysis
+This application is to manage the quality of finished goods produced in plants. User can see the quality
+of products as numeric value (using scoring logic), charts and how it varying with every batch. Domain
+people will be able to see the quality of their product and they can find out the reason for it. They can
+check the prediction of quality for product which is still under process. This application is very useful
+to make their quality better and to compete others in market, which will help them to increase their
+benefit.
+This application is based on NoSQL Data. Technologies used are Python and MongoDB.
+Asset Platform
+This project is based on real time data streaming from OPC to show machine data on screen. The
+machine data is pushed to listener and parsed by spark streaming, which is finally stored in Redis and
+openTsDB. The main objective is to analyse data like daily power utilization and machine status.
+Technologies used are Python ,Java, Kafka, Scala, Spark,Redis and OpenTsDB.
+Role and Responsibility in above mentioned Projects
+• Discussion and Understanding the business requirements with Team Members.
+• Discuss the backend pipeline design.
+• Develop the backend pipeline using Python and MongoDB.
+• Develop the application in framework like Django according to requirement.
+• Client Side development using JavaScript and jQuery.
+• Planning about functionality and test it before development also with maximum test cases to
+avoid rework and to save time.
+• Server Side development by using Python according to project requirement.
+• Writing query and procedures to get data from database.
+• Error Solving while development.
+• Keep checking performance of an application.
+• Testing the application functionality.
+• Testing the application with pivoted data or expected results.
+• Maintaining testing documents and screenshots.
+• Take care of change request.
+• Testing application after adding new functionalities in websites.
+• Update the app Tracker after adding new functionalities in project.
+• Clarify the doubts with manager or client if any.
+• Deployment of application.
+• To help the Team Members always, to make an excellent quality project.
+EDUCATION
+• B-Tech (Bachelor of Technology in ECE) - 2014, DIET, Karnal. Haryana.
+PERSONAL PROFILE
+Gender : Male
+Marital Status : Single
+Nationality : Indian
+Languages : English, Hindi, Punjabi
+Contact Address : #21, Imran Manzil, BTM 2nd Stage, 1st Main, 1st Cross, Bangalore.
+

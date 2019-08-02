@@ -1,0 +1,37 @@
+FUNCTIONAL
+Mamtha Shankar
+987 100 ft Road,
+Hyderabad 560023
+9984571235
+mamthashank@xxx.co
+m
+OBJECTIVE:
+To work and excel in a front-end role and grow with the company.
+PROFESSIONAL PROFILE
+Experienced Frontend Developer with a demonstrated history of working in the
+computer software industry. Skilled in MailChimp, WordPress, Drip Marketing,
+Sketching, Internal sales tools and HubSpot. Strong engineering professional with a
+Master of Science (M.Sc.) focused in Computer Science from Bapatla engineering
+college.
+PROFESSIONAL SKILLS AND EXPERIENCE
+HAPPAY SPEND MANAGEMENT PVT. LTD.
+• Integrated Hubspot CRM to website
+• Integrated Leadsquared CRM to website.
+• Handling blog customisations.
+• Created Internal Tools for Sales and marketing teams.
+• Integrating Hubspot CRM to Wordpress.
+• Integrating Leadsquared CRM to Wordpress.
+• Creating Landing pages with Mobile responsive.
+• Provided orientation, training and guidance to new employees.
+EDUCATION
+Bachelor of Science, Osmania University, Hyderabad, Telangana (March, 2015)
+Major: Computer Information Systems in Business Minor: Mathematics
+Graduated summa cum laude GPA: 3.98/4.00
+TECHNICAL SKILLS
+• Web Design, HTML 5, CSS, Java Script, jQuery, AWS
+• Amazon S3, Google Analytics, Photoshop, Domain Management, Hubspot, CRM
+WORK EXPERIENCE
+Front End Developer, Happay Expense Management, Hyderabad(2015-Present)
+Intern-Application Development, Idea Plunge Solutions LLP, Bengaluru (April 2015 to
+July 2015)
+

@@ -1,0 +1,66 @@
+Amandeep Singh
+Address: DE-130,Tagore Garden, Delhi-110027, India
+Ph.: +91-9953548756 E-Mail: amansudan024​@gmail.com
+Education
+Class/Course
+M.Tech (CSE)
+University/Affiliation
+IIIT-Delhi
+Percent/CGPA
+​8.5
+Year of Graduation
+2016
+B.Tech (CSE) GGSIPU 80.20 2014
+XII​th ​
+Standard CBSE 90.80 2010
+X​th ​
+Standard CBSE 90.60 2008
+Skills
+Programming Languages & Frameworks Python, HTML/CSS, jQuery, Django, Materialize, Bootstrap,
+Wordpress, C/C++, Java(J2SE), Git, Android, Docker(Beginner)
+Operating Systems Linux, Windows, Android
+Professional Experience
+Digital Green​ (Greenpark, Delhi) July 2016 - Present
+Designation​ : ​SDE-I
+Job Responsibilities ● Involved in development of training courseware mobile application in
+Android.
+● Involved in developing email automation scripts for Digital Green’s Loop
+project.
+● Key responsibilities included total ownership of the mobile application along
+with the Dashboard for monitoring the progress.
+● Involved in developing in house Analytics product backend.
+● One of the core developers involved in launching the company’s latest
+website. This involved extensive JS, CSS (Media CSS for responsiveness).
+Technologies Python, Javascript, Android.
+Professional Projects
+Project title​ ​: ​VConnekt
+Project briefing ​: Social platform where people with relevant skills gets connected. Relevant people are
+matched from various parameters like skills etc through a series of algorithms. One becomes
+mentor and the other becomes mentee through the above connection
+Role : I worked on connecting Facebook Api , Collections and Posts, Also worked on profile module and excel
+uploads for Admin.
+Technologies​ : Python, Django, HTML, CSS, JS
+Academic Projects
+Project title​ ​: ​TrafficJaam​ : Traffic Alert and Estimation Android Application
+Project briefing​: The application alerts the user when to start preparing to leave for the office depending
+upon the traffic conditions on the way. A historical analysis of the traffic conditions is also
+shown along with an estimation for the next day.
+Project title​ ​:​ ​MetroBuddies : ​An Application for social networking among Metro Travellers
+Project briefing ​: ​The application aims to develop a social network among metro travellers based on their
+travel routes, time and interests.
+Project title​ : ​Clubify
+Project briefing :
+An Android application developed specifically to be used inside the IIIT-Delhi University campus. The
+application provides a one stop destination to view all the activities going on in various student clubs of
+IIIT-Delhi. Users can join clubs and subscribe for any updates.
+Activities and Achievements
+● Core team member of the IEEE student team.
+● Successfully organised ​LeThAc​ (Learn Think Act) , an Open Source Conclave at GGSIPU.
+● Won Silver Medal in Basketball at Zonal level.
+Interests And Hobbies
+● Gaming
+● Workout
+● Music
+● NBA
+● Whatever Elon Musk is planning next
+

@@ -1,0 +1,86 @@
+Arpit Koolwal
+Contact: +91 7597931671
+arpitkoolwal855@gmail.com | y13uc046@lnmiit.ac.in
+EDUCATION
+Btech IN COMPUTER AND
+COMMUNICATION
+July’13-May’17
+The LNM Institute of Information
+Technology, Jaipur(Raj.), INDIA
+CGPA 6.62 / 10.0
+VPS SEC. SCHOOL
+Phulera,Jaipur(Raj.), INDIA
+Class XII(RBSE) 2012 | PCT: 81.40%
+Class X(RBSE) 2010 | PCT: 80.50%
+LINKS
+Github:// arpitx165
+Spoj:// agk16
+Codechef:// arpit165
+Hacker-Rank:// agk16
+Hacker-Earth:// arpitguptakoolwal
+LinkedIn:// arpitkoolwal
+StackOverﬂow:// arpit
+COURSEWORK
+UNDERGRADUATE
+C Programming
+Data Structures
+Design & Analysis of Algorithms
+Operating Systems
+Computer Networking
+Computer Oriented Architecture
+Object Oriented Programming
+TECHNICAL SKILLS
+PROGRAMMING LANGUAGES
+C • C++ • Java • Python
+TOOLS/FRAMEWORKS
+Docker• Kubernetes • Qt • Omnet++ •
+Git
+DATABASE
+MySQL • Cassandra
+PLATFORM(OS)
+Linux • Windows
+EXPERIENCE
+SLK | PRODUCT ENGINEER
+July’17 – Present | Bangalore, India
+CAST | SOFTWARE DEVELOPER INTERN
+Jan’17 – April’17 | Bangalore, India
+
+• Worked on development of extension for BPEL language in Python using
+CAST-SDK
+• Tools/Framework used : Python | Cast-Sdk.
+SHIELDSQUARE | SOFTWARE ENGINEERING INTERN
+May’16 – July’16 | Bangalore, India
+• Developed Content Management System modules which protect online
+business from abnormal activities and this module is currently in production.
+• Worked on docker and kubernetes which provide container level application
+deployment and orchestration.
+• Tools/Framework used : Drupal | Magento | Docker | Kubernetes.
+PROJECTS
+(All projects available on github: https://github.com/arpitx165)
+IMPLEMENTED AND ANALYSED SCHEDULING ALGORITHMS IN
+PINTOS | OCT’15-NOV’15
+• Implemented Priority, SJF, FCFS algorithms using C programming and
+compared their performances.
+• Contributed in developing aforementioned algorithms in C
+programming.
+• Technologies used: C | Hypervisor(Qemu)
+INTELLIGENT TRAFFIC MANAGEMENT SYSTEM | FEB’15-APR’15
+• Simulated Arduino with Java code that controls the lights (red, yellow,
+green) running for managing the trafﬁc.
+• Contributed in developing desktop application which communicates
+with hardware.
+• Technologies Used: Java | Java Swing(Frontend) | MySQL | Arduino |
+Serial Communication.
+ACHIEVEMENTS
+2016 Part of Top 30 teams Hackathon CNC organized by Nagarro .
+2015 Worked as a Teaching Assistant in Object Oriented Programming course.
+2014 Stood 2nd in Intra University Programming Contest .
+2013 Secured 1st position in Robo Race competition held during Torque’13.
+Active participant on various competitive programming platforms:
+• CodeChef: arpitx165 , Max. Rating: 1888.
+• Hackerrank: agk16 , Max. Rating: 1806.4.
+• Hackerearth: arpitguptakoolwal , Max. Rating: 1580.
+POSITION OF RESPONSIBILITIES
+2015-2016 Event Organizer at Computer Society of india at LNMIIT Chapter.
+2013-2015 Technical Lead and active member of Innovation Club of LNMIIT.
+

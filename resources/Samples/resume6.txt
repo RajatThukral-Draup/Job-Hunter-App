@@ -1,0 +1,89 @@
+Anupriya Kumawat
+Software Engineer
+anupriyakumawat95@gmail.com 7976537584
+Sector 47, Gurgaon, india linkedin.com/in/anupriya-kumawat-8a93a8116
+WORK EXPERIENCE
+04/2018 – Present
+Software Engineer
+KickstartJobs
+Gurgaon
+Kickstart Jobs provides a platform to connect entry level candidates
+with prospective employers and vice versa.
+Worked on a web-based application which gives a platform
+to connect entry-level candidates to job providers.
+06/2017 – 04/2018
+Software Engineer
+Sirionlabs
+Gurgaon
+Sirion automates traditional governance processes end-to-end and
+delivers real-time data-driven analytics.
+Design and Development of scalable and modular software
+product.
+Adding features to Document AutoExtraction Service.
+05/2016 – 07/2016
+Python Developer(intern)
+Mahiti Infotech Pvt. Ltd.
+Bangalore
+Build Information and Communication Technology (ICT) tools and
+solutions for the social sector to enhance programme quality.
+Owning complete backend part of the application.
+Discussions with PM to groom new features.
+EDUCATION
+07/2015 – 05/2017
+M.Tech
+ABV-Indian Institute of Information
+Technology and Management, Gwalior
+Gwalior
+07/2012 – 05/2015
+B.Tech
+ABV-Indian Institute of Information
+Technology and Management, Gwalior
+Gwalior
+High School
+Prince sr. sc. School
+SKILLS
+Python c c++ Django Sql
+Data structure Algorithms HTML Javascript
+Angular
+PROJECTS
+Online Blue Collar Job Portal System
+(04/2018 – Present)
+Created a secure ﬂow to store the user documents and provide
+them to candidates and leaders.
+Worked on distributed task queue(celery) to scale the application.
+Created a ﬂow to automate the process of vacancy life cycle in a
+system.
+Worked on core reporting API to analyze the user experience with
+the application.
+Contract Metadata AutoExtraction (06/2017 – 04/2018)
+Developed new feature that automate the process of meta data
+and obligations extraction from a given contract.
+Created APIs for contract auto extraction that serves obligations
+and metadata both with a throughput of 0.4-0.5M statements
+executed in an hour.
+Admin panel for create/update new rules and observe analytical
+stats.
+Python3, Django, PostgreSQL, mongoDB
+Project Management System (05/2016 – 07/2016)
+Worked on a web based application pms(project management
+system). This application is used organize the projects, assign the
+task and subtask in an organization.
+Python3, Django, PostgreSQL,javascript,html
+Speech Recognition System (01/2017 – 05/2017)
+speech recognition system which is used to recognize the words
+from a sentence by computer
+Matlab, DSP, Neural Networks
+Facial Expression Recognition (05/2015 – 07/2015)
+By using existing image processing operations hence arriving at
+simpler approach to perform facial expression classiﬁcation and
+recognition accuracy.
+.This system classify the input images into seven emotions
+(happy,sad,angry,disgust,normal etc.)
+Matlab, CV, Neural Network
+LANGUAGES
+Hindi
+English
+Achievements/Tasks
+Achievements/Tasks
+Achievements/Tasks
+

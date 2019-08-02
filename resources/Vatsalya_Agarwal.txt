@@ -1,0 +1,64 @@
+VATSALYA AGARWAL
+#503, Prayag Mansion, Murugaeshpalya, Bangalore, Karnataka 560071
+Cell: 9620365804 - vatsalyaagarwal@yahoo.co.in
+PROFESSIONAL SUMMARY
+Experienced Software Developer, committed to maintaining cutting edge technical skills and
+up-to-date industry knowledge.
+SKILLS
+Django/Python
+PHP
+JAVA
+MySql
+Docker
+HTML/CSS
+JAVASCRIPT/Jquery
+React.js
+Android
+MongoDb
+WORK HISTORY
+03/2017 to Current Senior Software Engineer
+Navya Technologies – Bangalore, India
+Developed front end in React and backend in Django of a new product, ALPHA, for
+physicians to index medical cases and search articles and guidelines.
+Moved all the apps to docker so setup and deployment is easy.
+Deployed apps in AWS using Cloudformation as docker containers.
+05/2016 to 02/2017 Senior Software Developer
+Cubito – Bangalore
+Core member of the "Transport and Logistic Optimizing Tool".
+Responsibilities includes feature development, Front-end, and Back-end development.
+05/2015 to 05/2016 Software Developer
+Cubito – Bangalore
+Creates applications using HTML, CSS, JavaScript, jQuery with PHP and Django and Android.
+Works on two core product
+12/2014 to 05/2015 Software Developer Intern
+Cubito
+Being the first employee of the company, I took responsibility for the entire ETAT product
+including the google maps integration, routing algorithm and the android application.
+PROJECTS
+TRANSPORTATION LOGISTIC OPTIMIZATION TOOL (DJANGO/Python,
+REACT.js WITH REDUX and Android) - Cubito
+Created the Multi-tier Vendor Fleet Management System.
+Created a comprehensive code-base for the Front-end in React and Redux for interns &
+tenure alike can migrate smoothly to React & Redux.
+Developed the User Account Management Modules, including Roles and different level of
+Access.
+EMPLOYEE TRANSPORTATION AUTOMATION TOOL (PHP, JQuery, HTML, CSS
+and Android) - Cubito
+Developed the Backend Logic which includes Vendor Fleet Management, Real-time
+Tracking of vehicles, LMS & Geofencing amongst other features
+Developed the entire spectrum of Vendor Fleet Management and Trip Management
+Trained and lead the team into using GIT as a version control system and Django to crave
+the path whe re every module of the Product can be a web services down the lane
+Took responsibility for the entire android development including the API
+ALPHA(DJANGO/Python, REACT.js WITH REDUX) - Navya Technologies
+End to end system for medical case management that includes indexing, assignment,
+summary and search features for physicians.
+User management section for adding and managing users for different hospitals.
+Rendering the UI form using a json input so that different forms can be used by different
+physicians and organisations.
+EDUCATION
+2015 Bachelor Of Technology : Software Engineering
+SRM UNIVERSITY - CHENNAI
+2010 ISC:
+Modern Academy - Lucknow
+

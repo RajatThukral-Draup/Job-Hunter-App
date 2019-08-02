@@ -1,0 +1,50 @@
+Utkarsh Kumar
+A12 201, Splendour Megapolish, Hinjewadi Phase 3, Pune-411057, Maharashtra
+utkarsh35@hotmail.com Mob: 7887827844
+SUMMARY
+------------------------------------------------------------------------------------------------------------------------------------------
+An Ambitious Problem Solver and Result-oriented Web Application Developer with considerable training and enterprise
+experience in web site design and layout and in all states of design, coding, and testing of the web application, and in the
+formation, planning, and implementation of the online business ventures.
+Working gives me a lot of skills and experience that I believe make me best suited for this job position.
+WORK HISTORY
+------------------------------------------------------------------------------------------------------------------------------------------
+Part time Full stack developer at AntFant.in an early stage startup. Technology used: React Js, Redux-saga, Machine Learning
+Senior System Engineer, Dec17-Present
+Infosys Ltd – Pune
+Project1: Dynamic CRM-Field Service || Client: Microsoft
+Full Stack Developer with responsibility of bug fixing in Field Service Product.
+Technology used: C#, JavaScript, JQuery, Html, CSS, ASP.Net MVC.
+Project2: Dynamic CRM-Fake Invoice Detector|| Client: Microsoft
+Developed a solution that decides the originality of the invoice at the time of upload and gives the response to the user. Fully
+responsible for the deliverables. Because, team had only two members another was a senior technology architect.
+Technology used: Azure Machine Learning, Azure, Python, React JS, Redux.
+Project3: Social Media Sentiment Detector || Client: Infosys POC Project
+Designed and implemented a dashboard for real time sentiment scores of a particular product / topic.
+Technology used: PowerBI, Azure Machine Learning, Azure, Python, React JS, Redux.
+System Engineer, Apr16-Nov17
+Infosys Ltd – Pune
+Project: Dynamic CRM-Performance Dashboard || Client: Microsoft
+Full Stack developer responsible for design, development and performance of the Dashboard.
+Built scalable dashboard from scratch.
+Work involved client interactions, understanding their requirements and accordingly work for the delivery.
+Received FS INSTA award from Infosys and got client appreciation for excellence in work.
+Technology used: C#, ASP.net MVC, SQL, React Js, JavaScript, JQuery, Html, CSS, highcharts
+Graduate Trainee, Oct15-Mar16
+Infosys Ltd- Mysore
+The Training braced my skills as programmer. To work as an engineer in Infosys, one has to clear the tests taken by Infosys
+and later a band is provided according to the cumulative performance in all tests. I was given HPF band (for 93%) in their
+training.
+Technology used: Python, C#, ASP.net MVC, SQL, Tableau, Ado.Net, Entity Framework.
+EDUCATION
+------------------------------------------------------------------------------------------------------------------------------------------
+Birla Institute of Technology, Mesra, Ranchi
+Bachelor of Engineering, Electrical and Electronics Engineering, 2011-2015
+SKILLS
+-------------------------------------------------------------------------------------------------------------------------------------------------------
+React Js, Redux, Asp.Net MVC, C#, JavaScript, JQuery, Azure Machine Learning, Git. SQL, R, Python, Web2py, PowerBI,
+highcharts, Tableau, Powershell, Selenium. Learning, Analytical thinking, Problem solving
+Languages
+-------------------------------------------------------------------------------------------------------------------------------
+English, Hindi, French(beginner)
+

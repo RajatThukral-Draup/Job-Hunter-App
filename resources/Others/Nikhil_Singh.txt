@@ -1,0 +1,64 @@
+Nikhil Singh
+Bangalore | 9560900643 | nikhilsingh2009@gmail.com
+Experience
+DATA SCIENTIST | DIET CODE APPLICATIONS PVT. LTD. | DECEMBER 2016 – PRESENT
+ Recommender Engines for the news app (NewsCase)
+o Content Recommender (entity recognition and jaccard coefficient)
+o Collaborative Filtering (matrix factorization for implicit feedback based on libmf)
+o User-user based collaborative filtering was used to understand customer behavior and to provide
+recommendation which increased the number of articles read by 15%.
+ Worked on financial time-series modelling data using random forest and achieved prediction accuracy
+of more than 90%
+ Built a system to compare performance of mlpack, libmf and spark on matrix factorization using docker
+ Built A/B testing framework to validate the recommender system
+ Implemented the recommender engine in production environment using docker and provided top-n
+recommended articles
+DATA SCIENTIST | COGNIZANT TECHNOLOGY SOLUTIONS | MAY 2016 – DECEMBER 2016
+ Worked on text mining manpower project to identify relevant words from job-descriptions as input to
+search queries (Stemming, Parts Of Speech (POS) tagging) & built a search engine over it.
+ Improved the accuracy of hitting correct job-description from 32% to 47%
+ Created credit scoring model to predict delinquent customers (imputation using SMOTE, logistic
+regression & Decision Tree)
+ Managed a team of 5 people and completed a time-series modeling project (ARIMA) & created
+visualizations using Shiny (R package) – TAPE (Ticket Analysis and Prediction Engine)
+ Received Q-3 Spotlight award for being the best performer in Data Science division and for handling an
+entire time-series modeling project
+SOFTWARE ENGINEER | NUCLEUS SOFTWARE EXPORTS LTD. | JULY 2012 – JUNE 2014
+ Project on delinquent customers module handling Big Data & completed Change Service Requests
+ Worked on Customer-Self-Service Project (Internet banking module) & Islamic Banking Project
+ Received Winner award for the month of August – 2013 for contribution and eagerness for more works
+opportunities & quality consciousness
+Skills & Abilities
+MACHINE LEARNING
+ Classification – Decision Trees (CART, C5.0), Logistic Regression, Linear Discriminant Analysis, Random
+Forest, SVM
+ Regression – Multiple Linear Regression, Regularization methods: ridge, lasso, PCR, PLS
+ Clustering – Hierarchical Clustering, kMeans
+ Ensemble & Boosting – xgboost, gbm
+Page 2
+ Time Series Analysis – ARIMA
+ Other methods – PCA, Imputation techniques, TF-IDF, Cross-Validation, ROC, ANOVA
+ Text Mining & NLP – Topic Modeling, Named Entity Recognition
+DEEP LEARNING
+ Deep Neural networks, Hyper-parameters tuning, Regularization, Optimization
+RECOMMENDER SYSTEMS
+ Collaborative Filtering, matrix factorization, Recommendation: implicit feedback systems, hybrid
+recommenders, Content based Recommendation0
+Tools
+ R – dplyr, data.table, ranger, ggplot2, tm, caret
+ Python – scikit-learn, pandas, numpy, matplotlib
+ Spark – using PySpark module
+ Database – Solr, MongoDB, mysql
+Academic Qualifications
+Degree Year Institute, University/Board %/CGPA
+PGDM 2016 IIM Tiruchirappalli 2.77/4.33
+B. Tech 2012 Uttar Pradesh Technical University Lucknow 72.74%
+ Wiley Certified Machine Learning Expert, 2016
+ Neural Networks and Deep Learning Certification, Coursera
+ R-programming Certification, Coursera
+Projects and Academic Papers
+ Co-author of R package: pkggraph
+ “Minimization of Error for Better Prediction of Secondary Structure of Proteins using Neural Network”,
+research paper presented at the International Conference on Electrical Engineering & Computer Science
+(ICEECS)
+

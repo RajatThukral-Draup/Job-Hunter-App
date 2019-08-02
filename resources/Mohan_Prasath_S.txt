@@ -1,0 +1,122 @@
+Mohan Prasath S
+Contact number : +91-7200801025
+E - Mail : openmohan@gmail.com
+LinkedIn profile : https://www.linkedin.com/in/openmohan
+Github profile : https://github.com/openmohan
+Website : https://openmohan.github.io/
+SNAPSHOT
+ Good exposure in web application development and distributed systems
+ Developed various business critical products like Cisco Support Tools , Cisco MCMP (Multi-cloud Management
+Platform), WebNMS and ZohoDesk
+ Exposure to various web application frameworks and libraries.
+ Exposure to distributed systems and container orchestration.
+WORK EXPERIENCE
+ Software developer in Zoho corporation – May 2015 to Sept 2016
+o Developer on WebNMS project – a network monitoring system
+o Developer on ZohoDesk project – a SaaS based help desk product
+ Cloud Engineer in Wanclouds (Cisco Systems) – Sept 2016 to Present
+o Developer on Cisco MCMP - Provides an enterprise context for delivering cloud services
+o Developer on Cisco Support Tools project – Set of tools to manage Cisco Cloud
+o Developer on Next generation cloud services – service to deliver cloud services.
+o Developer on Metacloud project – an OpenStack based tool.
+EDUCATION QUALIFICATION
+ M.Tech in Software systems Birla Institute of Technology (2018-2020)
+ B.Tech in Information Technology Sona College of Technology (2011-2015), - 80% aggregate.
+ Higher Secondary in TMHNUMHSS, Theni - 92% aggregate.
+ Matriculation in TMHNUMHSS, Theni - 84% aggregate.
+SKILLS
+Languages : Golang, Java , JavaScript , HTML ,CSS , Node.js ,PHP and JSP
+Web Technologies : ReactJS , Redux , Jquery , Webpack , ES6 ,EmberJS , BootStrap.js,
+Charts.js , D3.js , Struts and Tiles
+Database technologies : MySQL , PostgreSQL, MongoDB
+Networking Technologies : SMTP , HTTP ,FTP ,OSPF , ISIS , MPLS ,ICMP and EIGRP
+AREA OF INTEREST
+Cloud computing, Web application development, Distributed systems, Opensource, Linux, Programming and
+Scripting
+PERSONAL SKILLS
+Comprehensive problem solving abilities, excellent verbal and written communication skills, good fluency in English,
+ability to deal with people diplomatically, willingness to learn, team facilitator, hard worker.
+CERTIFICATIONS
+ Certification on “MongoDB for developers” from MongoDB University
+ License 29994911117148e2ae1a87b94c237d4f
+ Certification on “Java Programming“ from Hong Kong University (EDx)
+ License https://verify.edx.org/cert/a8bc9cf016b845858d6544d9671e2e79
+ And few interesting certificates in PluralSight and Edx
+PROJECTS
+Project # 1: Cisco - Next Generation Cloud Services – Wanclouds @Cisco [JS, GoLang, Kubernetes, Openshift,
+Swagger,k6] Apr 2018- Present
+Provide an enterprise context for delivering cloud services that everyone understands and wants
+➢ Worked on Tenant Manager service to facilitate the tenant onboarding and resource management
+➢ Worked on Load and integration testing on all microservices (IAM, resource manager and tenant manager)
+Project # 2: Cisco Infrastructure Services – Wanclouds @Cisco [ReactJS, PHP,JS,SNMP, Prometheus] Sept 2016-
+Apr 2018
+Set of Tools to manage Cisco Cloud Infrastructure and deploy applications in Cisco Cloud
+➢ Developed a tool “Disaster Recovery” to deploy application on the Cisco Cloud and automatic disaster
+Management and load balancing.
+➢ Developed a tool “Tenant Entitlement Tool” used by Customers to check their cloud application status.
+➢ Developed a Network Orchestration tool “Netroc” to facilitate VPN automation and network device monitoring
+through SNMP and Prometheus .
+Project # 3: WebNMS – Zoho [Java , JSP , JavaScript , Jquery , Chart.js , D3.js , Bootstrap] May 2015 - April 2016
+A Network Management System framework for developing NMS applications seamlessly.
+➢ Involved in Discovery Module and Troubleshooting module
+➢ Developed UI for report generation and Router Management.
+➢ Gained good experience in Network monitoring and learnt about networking concepts.
+Project # 4: ZohoDesk – Zoho [ReactJS, Java, JavaScript,Jquery, Struts , Bootstrap] April 2016- Sept 2016
+A Help desk cloud Product developed for high scalable uses
+➢ Developed live chat support using few other zoho products (ZohoChat and salesIQ)
+Project # 5: Instant Servers (Final Year Project) [Docker , MongoDB, PHP] May 2014 - May 2015
+➢ Developed a simple on-demand server provisioning tool. The tool provides a self-service portal for the users
+where the user can launch the services required.
+Project # 6: MakeWay – (PreFinal Year Project) [Android , Java] May 2013 – May 2014
+➢ Ambulance can’t reach the patients in time because the traffic is growing exponentially. The driver locate a
+hospital in his digital device the shortest path will be identified and the signals in the path will be turned to
+green “+”(emergency symbol).
+Open source contributions:
+Load Impact (K6) : k6 is a modern load testing tool, building on Load Impacts 's years of experience in the load
+and performance testing industry [Golang]
+➢ https://github.com/loadimpact/k6/pull/681 - To make options available through environment vars
+➢ https://github.com/loadimpact/k6/pull/674 - To make testing order as the execution order
+Resume Builder : An automation project for creating resume/website using linkedin signin and linkedin data
+[React.js , Node.js]
+➢ Parent site for creating resume is http://realevents.herokuapp.com/
+➢ Sample resume after providing details will be http://mytale.herokuapp.com/mohanprasaths
+Docker UI : An UI for maintaining and monitoring Docker swarm containers [React.js , Node.js]
+➢ Dashboard and Containers view are completed for now . Working on the other
+features.(https://github.com/mohanprasaths/DockerUI)
+Prometheus : Monitoring and alerting through time series database [Go]
+➢ Identified set of bugs and fixed them (https://github.com/prometheus/snmp_exporter/pull/119)
+➢ Developed a feauture of storing hex strings in the Prometheus Time series Database
+ACHIEVEMENTS AND ACTIVITIES
+➢ Awarded the “BEST OUTGOING STUDENT OF THE YEAR 2011-2015” by Sona College of technology
+➢ Awarded the “BEST PERFORMER OF THE YEAR 2013-2014” by Sona College of technology .
+➢ Awarded “SPECIAL ACHIEVEMENT AWARD” by Sona College of technology on 2013.
+➢ Awarded the “BEST PERFORMER in CO-CURRICULAR 2014-2015” by Sona College of technology .
+➢ Awarded the “BEST PERFORMER in CO-CURRICULAR 2013-2014” by Sona College of technology .
+➢ Won1st
+prize in a Project presentation at “Verve’13” Conducted by SCT,Salem on 9th
+October 2013.
+➢ Won 1st
+prize in a Project presentation at “Ignite 13” Conducted by Anna University on 11th
+October 2013.
+➢ Won3rd
+prize in a Project presentation at “Verve’14” Conducted by SCT,Salem on 9th
+October 2014.
+➢ Won1st
+prize in bug busters Conducted by SCT, Salem on 8th
+October 2014.
+➢ Presented a paper titled “Cloud Computing” in a Paper Presentation Contest of National Level Technical
+Symposium “Spring Fest 2k13” organized by KSR college of institute and technology,9th
+October 2013. Won
+1st
+prize.
+➢ Got 2nd
+prize in “JUST A MINUTE” conducted by NSS NEST’12, Salem.
+➢ Entered as a finalist in National Level Code Developing Contest at Anokha 2014.
+➢ Scored Incubation at Indian Institute of Technology Madras for Innovative Ideas
+PERSONAL PROFILE
+Name : Mohan Prasath S
+Marital status : Single
+Date of Birth : 30, April 1994
+Nationality : Indian
+Hobbies : Meetups, Sports ,Yoga, Karate
+

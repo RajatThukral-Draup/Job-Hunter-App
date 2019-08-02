@@ -1,0 +1,17 @@
+{% extends 'layout.html' %}
+
+{% block body %}
+  <div class="jumbotron text-center">
+    <h1>Welcome To Job x Hunter </h1>
+    <p class="lead">This application is built to the user with Job Descriptions(JD) for companies he's a perfect fit for.
+    </p>
+      <h3> How do we accomplish this?</h3>
+      <p class="lead">
+          By using data from their resume followed by the other information provided, we perform a psychometric analysis of the user, computing the overall behavioural and technical aspects which are then mapped with the Culture of the company and other fields in Job description to find perfect match.
+      </p>
+    {% if session.logged_in == NULL %}
+      <a href="/register" class="btn btn-primary btn-lg">Register</a>
+      <a href="/login" class="btn btn-success btn-lg">Login</a>
+    {% endif %}
+  </div>
+{% endblock %}

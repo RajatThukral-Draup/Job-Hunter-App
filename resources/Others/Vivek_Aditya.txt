@@ -1,0 +1,124 @@
+PurellaVivek Aditya
+RESEARCH ASSOCIATE · ABZOOBA
+CE 84, Salt Lake , Kolkata , India - 700064
+ (+91) 7407168795 |  vivekadityapurella@gmail.com |  vivek-aditya-871710104 |  vivekaditya.p
+Summary
+Data Scientist, NLP Engineer, Deep Learning Engineer, Programmer with strong knowledge of OOP,
+Full Stack developer with good knowledge of SDLC, Quick Learner and Team player
+Education
+Indian Institute of Technology , Kharagpur Kharagpur, India
+B.TECH. IN COMPUTER SCIENCE AND ENGINEERING(CGPA - 8.22) 2011-2015
+• B.Tech Project ’Citance Based Scientific Document Summarization’ under Prof. Pawan Goyal
+Sri Chaitanya Junior College Vijayawada, India
+BOARD OF INTERMEDIATE EDUCATION,A.P (96.2%) 2009-2011
+Experience
+Neural Semantic Search Kolkata,India
+RESEARCH ASSOCIATE - ABZOOBA Aug. 2017 - Ongoing
+• The project involves creating a domain specific search engine
+• Implemented a LSTM based deep neural network with thought vectors for finding relevant documents for a given query
+• Further task include improving this model and providing alternative models(based on InferSent)
+Xpresso Commerce Analytics Dashboard Kolkata,India
+RESEARCH ASSOCIATE - ABZOOBA May. 2017 - July. 2017
+• The aim was to provide a dashboard with feature of showing the metrics information present in the database and predict future trends
+• Implemented an end to end application using NodeJS,Angular and Python
+• The UI and backend of the application were based of Express and NodeJS while the analytic models for predicting the trends were
+written in python
+Data lake and Metrics pipeline Kolkata,India
+RESEARCH ASSOCIATE - ABZOOBA Mar. 2017 - Apr. 2017
+• The idea was to store the logs and create metrics out of them
+• Worked on creating an robust pipeline for logs store and analysis
+• Using kafka as the message broker for the logs being sent and spark streaming to do fault-tolerant stream processing and store the
+logs on HDFS and populate MemSQL database with the calculated metrics
+Xpresso Commerce Recommendation Engine Kolkata,India
+RESEARCH ASSOCIATE - ABZOOBA Feb. 2017
+• This project is aimed to provide personalized recommendations for end users on the e-Commerce platform
+• Worked on creating content based and collaborative filtering based recommendations.
+• Leveraged on the existing graph structure of the data store to provide fast recommendations
+Xpresso Commerce Catalog and User Database (Datalayer) Kolkata,India
+RESEARCH ASSOCIATE - ABZOOBA Nov. 2016 - Jan. 2017
+• This project was to explore and compare the databases available for storing the catalog and user information
+• Initially setup was done with dynamodb and cloudsearch
+• Created graph database(JanusGraph) based architecture for the user and catalog store which resulted in improvements in the latency
+of the whole product
+SEPTEMBER 12, 2017 P. VIVEK ADITYA · RÉSUMÉ 1
+Xpresso Commerce Chatbot Kolkata,India
+RESEARCH ASSOCIATE - ABZOOBA Sep. 2016 - Oct. 2016
+• The aim was to build a conversational chatbot for end users using existing bot frameworks
+• Worked on creating a messenger chatbot using the messenger-platform in NodeJS
+• https://www.messenger.com/t/botcoutureaiOne is one of our published bots
+Xpresso Commerce Vision Engine Kolkata,India
+RESEARCH ASSOCIATE - ABZOOBA Aug. 2016
+• The task was to retrieve visually similar products to the image uploaded by end user
+• Worked on the core Vision Engine and its architecture identifying the entity from image provided by user
+• Created the visual search engine based on deep convolution Neural Network(VGGNet) in python
+Xpresso Commerce NLU Engine Kolkata,India
+RESEARCH ASSOCIATE - ABZOOBA Apr. 2016 - July. 2016
+• This project was aimed at providing NLP , artificial intelligence powered e-Commerce platform for end users
+• Worked on the core NLP Engine identifying the user queries and searches
+• Implemented new modules based on Wit.ai for entity identification and created machine learning models for attribute prediction
+using rasa.ai
+Xpressso NLP Engine Kolkata,India
+RESEARCH ASSOCIATE - ABZOOBA Nov. 2015 - Mar. 2016
+• Worked on the core product of Abzooba, Xpresso an aspect based sentiment analysis engine.
+• This engine provides actionable insights to companies who have a lot of customer feedback available on the social media. Getting
+this data and doing a deep data analysis provides valuable information
+• Implemented new modules based on Stanford’s CoreNLP for aspect identification and Improved existing Machine Learning models
+for sentiment analysis
+• Created architecture for leveraging Google’s word2vec and improving the entity identification model.
+• Created an ontology building pipeline using Java for a given domain
+MCI Sensing Engine Kolkata,India
+RESEARCH ASSOCIATE - ABZOOBA Sep. 2015 - Oct. 2015
+• The Sensing engine is an early warningsystem forthe MCI Singapore, providingearly insightsof whatis happening on the social media
+• Implemented trend analyser model to capture different trends occurring in social media
+• Created dashboards with actionable insights according to the category of specific issue
+CTM Prediction Kolkata,India
+RESEARCH ASSOCIATE - ABZOOBA July. 2015 - Aug. 2015
+• The task was given the call history of customers and the unstructured textual information predict which of the customers will go
+forward with a complain
+• Used R and Python to pre process data , build model and predict the customers who can complain in future.
+Catalina Project Kolkata,India
+DATA SCIENCE INTERN May. 2014 - July. 2014
+• The task was to Predict which Customers will become repeat buyers given their shopping history
+• Create a logistic regression model based on the user’s purchase history
+• Used R , Java , Vowpal Wabbit to predict the chances of a customer to become repeat buyer
+Academic Projects
+Citance Based Scientific Document Summarization Kharagpur,India
+B.TECH PROJECT Aug. 2014 - Apr. 2015
+• Proposed new algorithm for extractive document summarization based on the citance and Diff Rank algorithm
+• Achieved significant increase in recall and precision by utilizing domain specific knowledge while generating the summaries
+• Work featured in The Computational Linguistics Summarization Track
+SEPTEMBER 12, 2017 P. VIVEK ADITYA · RÉSUMÉ 2
+Tag prediction for StackOverflow questions Kharagpur,India
+COMPLEX NETWORK TERM PROJECT Jan. 2015 - Apr. 2015
+• Analyzed the StackOverflow network on the basis of complex networks algorithms and extracted relevant information from it
+• Proposed an algorithm for predicting tags for the question based on syntactic and semantic understanding of the question and tags
+Syntactic Tweet Normalizer Kharagpur,India
+NLP TERM PROJECT Aug. 2014 - Dec. 2014
+• Built an end-to-end syntactic tweet normalization pipeline using Stanford’s CoreNLP , CMU’s TweetNLP and Moses
+Honors & Awards
+2016 Winner, Best employee of the Quarter Kolkata,India
+2016 Winner, Victor team award Kolkata,India
+2015 Gold, Inter IIT Data Analytics Competition Kharagpur,India
+2015 Winner, Term Project in Complex Networks Kharagpur,India
+2015 Finalist, Microsoft Code.fun.do Kharagpur,India
+2014 Gold, Open IIT Data Analytics General Championship Kharagpur,India
+2011 Selected, INMO - Indian National Math Olympiad Hyderabad,India
+2010 State 2nd, Sir C.V.Raman Young Genius Talent Test Hyderabad,India
+Courses Undertaken
+Relevant courses
+• Machine Learning , Artificial Intelligence , Social Computing , NLP(Natural Language Processing), Advanced ML, Data Analytics
+• Information Retrieval , Algorithms , Matrix Algebra, Probability and Statistics
+• Deep Learning Nanodegree (Udacity)
+Skills
+Languages and Skills
+• C , JAVA , R , C++ , Python , JavaScript
+• SAS , Assembly , LATEX, Shell Script
+• Natural Language Processing, Machine Learning , Artificial Intelligence, Data Analysis, Deep Learning
+Tools and Softwares
+• GCE , AWS EC2 , AWS CloudSearch , AWS BeanStalk , Neo4j , Git, Akka Play, Tomcat , Maven , sbt , Docker
+• DynamoDB , MySQL , MongoDB , Memsql , Cassandra , Elastics Search , JanusGraph, TensorFlow
+OS
+• Ubuntu, Debian, Mint, Redhat, CentoOS
+• Windows, Mac
+SEPTEMBER 12, 2017 P. VIVEK ADITYA · RÉSUMÉ 3
+

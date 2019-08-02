@@ -1,0 +1,55 @@
+Alia Bhatt
+987 100 ft Road,
+Bangalore 560023
+9984571235
+mamthashank@xxx.co
+m
+OBJECTIVE:
+To work and excel in Data Science and grow with the company.
+PROFESSIONAL PROFILE
+Experienced Machine Learning Researcher with a demonstrated history of working
+in the computer software industry. Over 7 years of experience in scientific data
+analysis, design and implementation of mathematical models and algorithms.
+Practical hands-on experience in exploratory analysis, data visualization, machine
+learning algorithms, and the general modelling pipeline.
+PROFESSIONAL SKILLS AND EXPERIENCE
+TERRABLUE XT
+• Research and implement classification algorithms for detection of epileptic
+seizures using physiological time-series data.
+• Improved upon the accuracy of existing algorithms by incorporating non-linear
+and chaotic features
+• Implemented algorithms for peak detection and artefact removal of biomedical
+signals.
+• As a part of a team, designed and implemented a real-time machine learning
+framework for human emotional state/activity recognition.
+• Mentor budding data scientists.
+• Tools used: R, Matlab, Python, PostgreSql, Hadoop, Hive, Neo4j
+FLATURA DECISION SCIENCES AND ANALYTICS
+• Was responsible for providing core business solutions using structured and
+unstructured data using Machine Learning, Statistics and Rich Graphic
+Visualizations which enable the business users to make quick decisions.
+• Researched on various SNA Methods, Algorithms and Tools to analyze Large
+Scale Enterprise Data.
+• Explored various Graph Databases and Visualization methods to represent social
+relations.
+• Implemented Map Reduce Algorithms to analyse large graph.
+• Tried to resolve power distribution issues like identifying the power leakage
+points using graph theory.
+• Tools used: Hadoop, Hive, Giraph, Gephi, Neo4j, Python, Scala, Java, R, Jquery
+and Javascript, D3, NVD3, Highcharts, Google Chart API.
+EDUCATION
+Master of Science, Bangalore University, Bengaluru, Karnataka (March, 2015)
+Major: Computer Information Systems in Business Minor: Mathematics
+Graduated summa cum laude GPA: 3.98/4.00
+Bachelor of Science, Christ University, Bengaluru, Karnataka (March, 2015)
+Major: Computer Information Systems Minor: Mathematics
+Graduated summa cum laude GPA: 3.98/4.00
+TECHNICAL SKILLS
+• Data wrangling, data visualization, supervised and unsupervised machine learning
+algorithms, statistical inference, hypothesis testing, AWS
+• Hadoop ecosystem, Spark, Kafka, Storm, Azkaban, MSSQL, MYSQL, Postgres, MongoDB
+WORK EXPERIENCE
+Data Scientist/Researcher, TerraBlue XT, Bengaluru (April 2017 to Present)
+Data Scientist, Flatura Decision Sciences and Analytics, Bangalore (2015-
+2017)
+

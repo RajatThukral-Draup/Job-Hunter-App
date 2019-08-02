@@ -1,0 +1,85 @@
+SOURAV BANERJEE
+Belathur Main Road
+Bangalore, KA - 560067
+Phone: +91-9113880084
+Email: srvasn@gmail.com
+PROFILE
+Brief description: Python expert with comprehensive depth in Cloud Networks, DevOps, HTTP/Socket back-ends, UNIX,
+asynchronous I/O, software design patterns and empirical simulation and estimation, looking for a senior role in
+a product development environment.
+KEY SKILLS
+• Comprehensive understanding of Cloud Networks at scale, both from a development and a DevOps perspective.
+• Automating development and test environments using Vagrant/Docker and Ansible.
+• Designing and Building high performance web applications and API’s using Python web frameworks like Django & Flask.  
+• Building data aggregation back ends for IoT devices over TCP/UDP sockets and other custom protocols over SSL/TLS.  
+• Building machine learning pipelines that feed structured/unstructured data to decision engines written in Python.  
+• Prototyping distributed ARM IoT devices (hardware + firmware) running on Linux.
+• Implementing automated development and DevOps workflows for applications/infrastructure on the cloud.
+DEATILED SKILLS
+OO programming: Python 2.x-3.x, GNU C/C++, Lua, TypeScript.
+Cloud Computing: Openstack (with expertise in Neutron), AWS, Rackspace.
+HTTP frameworks: Flask, Bottle, Django 1.5+ with DRF, GeoDjango and other related modules.
+Socket back-ends: TCP, UDP and other (custom) socket based protocols over bullet proof SSL/TLS.
+Databases: MySQL, PostgreSQL, MongoDB, SQLite.
+Data analytics: Web crawlers/aggregators, basic analytics and visualization using Numpy, Scipy and MatPlotLib.
+Scripting languages: Shell, Perl, Python, Javascript.
+UI prototyping: Angular 5 with TypeScript, HTML5 + CSS3 ensuring semantic, standards compliant markup, Bootstrap 4.
+DevOps: CI/CD (using Jenkins, Travis and Bamboo), Docker, Puppet, Chef, Ansible.
+WORK EXPERIENCE
+IBM India Pvt. Ltd – Bell Canada (OrderMax) IBM Project
+Role: Application Developer (J2EE) Jan 14 - Sep 14
+Responsible for :
+• Upgrading and maintaining the rule engine for a B2C application using IBM Sterling.
+• Preparing design documents (UML based) for development teams from briefs given by the project architect.
+IBM India Pvt. Ltd – (iOS Centre of Development) IBM Project
+Role: Application Developer (iOS) Oct 14 - Nov 14
+Responsible for :
+• Designing mock UI’s using web based tools and translating them into app UI using interface builder.
+• Prototyping iOS apps in XCode using Objective C/Swift.
+Cupick - Consultant (Flask + MongoDB + ElasticSearch) In-house development
+Role: Performance optimization, search UI prototyping and Elasticsearch integration. June 15 – July 15
+Responsible for :
+• Performance optimization of existing MongoDb/Flask back end by rewriting entire model layer.
+• Automating database migrations and sitemap generation using Python/Shell scripts.
+• Prototyping a category based search UI with rich autocomplete functionality backed by the ElasticSearch based Algoila API and
+typeahead.js + hogan.js on the front end.
+Plank Inc. – Engineering Lead In-house Development
+Role: Design, Development, System Administration, DevOps. Aug 15 – May 16
+Responsible for :
+• Complete design and development of distributed IoT product architectures with REST based back ends and Linux based firmware on
+ARM powered devices.
+• Development of corresponding scalable communication/aggregation/analytics back ends and firmware repos over SSL/TLS.
+• Setting up and maintaining end to end development environments including multiple CI pipelines for continuous  delivery to a
+variety of platforms.
+• Development of multiple utility tools (web and desktop/mobile) for engineering and assembly teams.
+• Procurement, installation and setup of extensive infrastructure including on-rack servers and networking components.
+Entropika – Engineering Lead In-house Development
+Role: Architecture design, Development, System Administration, DevOps. Aug 16 – Dec 16
+Responsible for :
+• Development of high traffic mobile analytics back ends over REST/TCP for continuous data aggregation from mobile  devices post
+integration with SDK’s.  
+• Design and deployment of multi node database clusters (Postgres and MongoDB) on AWS using home brewed deployment pipelines.
+• Establishment of an end to end automated deployment pipeline for extremely high traffic API’s, using multiple mirrored, load
+balanced instances on AWS.
+• Interviewing potential candidates for open positions in the tech team.
+Rackspace Hosting – Bangalore Development Centre (Accion) Rackspace Public Cloud
+Role: Development and DevOps – Cloud Networks (Openstack Neutron) Mar 17 – Present
+Responsible for :
+• Feature development and fixes for Quark, an ML2 like plugin for running Neutron powered clouds at scale.
+• Development for the Python client for the Rackspace developer SDK.
+• Standardization of multi-component test and development environments using Vagrant/Docker and Ansible.
+• Setting up multistage, version controlled Jenkins pipelines for building and releasing Neutron.
+• Massively improving the exception handling capabilies of the Quark plugin using decorator based exception handling.
+• Solidifying unit test coverage for a large number of corner cases in multiple Quark modules.
+• Conducting sessions on multiple topics and technologies ranging from Cloud Networks to Continuous Integration.
+• Writing a setup toolkit for one click OS agnostic development environments using Vagrant/Ansible and PyCharm.
+• Interviewing potential candidates for open positions in Cloud Networks, Compute and Storage teams.
+EDUCATION
+⚫ Bachelor of Technology – Information Technology 2009 - 2013
+Govt. College of Engineering and Ceramic Technology,
+73, A.C. Banerjee Lane, Kolkata 700010
+DGPA - 7.30
+DECLARATION
+I hereby declare that the information furnished above is true to the best of my knowledge.
+Sourav Banerjee
+

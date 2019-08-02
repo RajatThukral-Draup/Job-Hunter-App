@@ -1,0 +1,133 @@
+ 
+ 
+Sreehari S 
+To make a sound position in corporate world, work with devotion  
+and hard work and contribute to the overall progress of organization. 
+Harisree 
+Cheriyanad P.O, Chengannur 
+Alleppey Dist, Kerala 
+(+91) 9400760980 
+sreemailtosreehari@gmail.com 
+in​:​https://www.linkedin.com/in/sre
+eharis 
+ 
+EXPERIENCE 
+CIED LABS Pvt Ltd., ​Aluva — ​Software Engineer 
+May 2016 - PRESENT 
+2+ year of Hands on Experience in Python Django application development. 
+● Modelling and database structuring. 
+● API Development using Python Django. 
+● Server deployment using AWS and heroku. 
+● Asynchronous tasks using Celery 
+● Storage implementation using S3 buckets. 
+● Domain registering in godaddy. 
+Output Technology, ​Bangalore — ​Internship 
+July 2015 - January 2016 
+Desktop application for output antivirus. 
+EDUCATION 
+D.B.H.S.S, ​Cheriyanad — ​High School 
+2010 
+Board Of Public Examinations, Kerala 
+D.B.H.S.S, ​Cheriyanad — ​Higher Secondary School 
+2011- 2012 
+Board Of Higher Secondary Education, Kerala 
+College Of Engineering, ​Chengannur — ​B.Tech (CSE) 
+June 2012- June 2016 
+CUSAT 
+ 
+ 
+TECHNICAL EXPERTISE 
+HTML 
+CSS 
+Python (Django) 
+Django Rest Framework 
+C 
+CPP 
+Java 
+PostgreSql 
+Mysql 
+AWS 
+Fabric 
+Redis 
+Celery 
+HOBBIES AND INTERESTS 
+Music 
+Net Surfing 
+Coding 
+Formula 1 
+ 
+ 
+ 
+ 
+PROJECTS 
+Auditordesk ​— ​(Castor, Trustea, MSPO) 
+Auditor Desk is ​auditing tool​ that is used by Auditors ​to fill up 
+checklist, attach files, photos & generate results. ​It is used by CBs to 
+assign audits, manage reports and​ related ​communications​.  
+● Castor 
+○ URL -https://castor.auditordesk.com 
+○ Used for auditing castor farms 
+● Trustea 
+○ URL - https://teacode.auditordesk.com 
+○ Used for auditing tea estates 
+● MSPO 
+○ URL - https://mspo.auditordesk.com 
+○ Used for auditing palm estates 
+Each project backend is developed using Python Django and the front 
+end is developed using AngularJS and HTML, CSS. Responsibilities for 
+backend development were 
+● Modelling and structuring. 
+● API Development. 
+● PostgreSql as Database for castor and trustea. 
+● MySql as Database for MSPO. 
+● Server deployment using AWS. 
+● Scheduled db backups using cron jobs. 
+● Sending emails using sparkpost. 
+● Site security using Cloudflare 
+CB Soft ​— ​Online veggies store (B2C Product) 
+ 
+CB Soft is a web application used for various Certification Bodies to manage 
+their workflow. 
+Responsibilities were 
+● API Development for reminder module . 
+● Server deployment using AWS. 
+● Implementing asynchronous tasks using Celery and Redis.  
+ 
+ 
+ 
+Farming Colors ​— ​Online 
+veggies store (B2C Product) 
+ 
+Farming Colors is an ​online veggies 
+store​ based in ​Ernakulam​. 
+URL -https://farmingcolors.com 
+Responsibilities for backend 
+development were 
+● Modelling and 
+structuring. 
+● API Development. 
+● PostgreSql as Database 
+● Server deployment using 
+AWS. 
+● Scheduled db backups 
+using cron jobs. 
+● Sending emails using 
+sparkpost. 
+ 
+The Return taxi​ ​—​ ​Web  
+Application for return taxi services
+Kerala 
+ 
+Web application for ​booking taxis  
+which are returning without  
+passengers.  
+Responsibilities for backend 
+development were 
+● Modelling and 
+structuring. 
+● API Development. 
+● PostgreSql as Database 
+● Server deployment using 
+Heroku. 
+ 
+

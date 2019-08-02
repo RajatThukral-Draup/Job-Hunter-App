@@ -1,0 +1,68 @@
+Darshan Chaudhary
+Github: github.com/darshanime · Phone: +91-7795394755
+Email: darshankchaudhary@gmail.com · Web: https://darshanime.github.io
+Industry Experience
+Software Developer Draup · Bangalore, India · 06/2017 - Present (11 mos)
+Built internal services used for making sense of data at scale - company names, location, translation
+Maintained the infrastructure for Draup - using Terraform to provision, Jenkins for CD, Ansible to build
+Maintained Draup platform’s core backend web application with new features, bug fixes
+Product Development Engineer Appknox · Bangalore, India · 06/2016 - 06/2017
+Designed and built the internal CRM module used for end-to-end managing of all client accounts.
+Designed and implemented a centralized, containerized logs processing pipeline (collection+filtering+visualization)
+for all the projects of the company based on the Elasticsearch, Logstash, Kibana (ELK) stack. Deployed it
+using Docker Machine, with Compose for orchestrating the containers.
+Maintained Appknox’s core backend web app with new features, test suites and bug fixes.
+Machine Learning Intern Exponentia Datalabs · Mumbai, India · 06/2015 - 12/2015 (6 mos)
+Designed an age-gender prediction pipeline for a client wanting to keep a tab on the profile of customers
+visiting the company owned supermarkets. Implemented the pipeline using caffe(the deep learning framework),
+OpenCV and SciPy stack. The model read the CCTV feed, used background subtraction algorithms for motion
+detection, detected faces using Viola-Jones algorithm, passed the cropped faces to a convolution neural network
+which output age and gender to be stored in MySQL database.
+Personal Projects
+Open source contributions Contributed to Heimdall, Sympy, Scrapy, Zulip
+Made bug fix contributions to Sympy, Scrapy and other open source projects.
+Computer Science notes Open sourced personal computer science notes
+Topics included Machine Learning, Operating Systems, Compilers, Golang etc. Well received by community -
+github.com/darshanime/notes
+Algorithmic agents to play games Implemented Minimax, Expectimax, Markov Decision Processes
+Agent successfully played non-deterministic games like 2048, Pacman with adversarial/random ghosts (oppo-
+nents), zero sum games like Tic-Tac-Toe etc.
+Sandpiles simulation program Ability to record visualizations
+Wrote a program which allows defining generalized sandpiles and an initial state to begin with and simulates
+it till it reaches a stable state with the option to record final state and/or intermediate states.
+Mortality Prediction System Outperformed standard industry scores like SAPS, MPM
+Used an ensemble of SVMs created using the SciPy stack to create a mortality prediction system for ICU
+patients. The dataset used to train the ensemble included time series readings of 6 body vitals and 25 lab
+measurements for each patient with a final binary label indicating patient’s survival. Model outperformed
+commonly used acuity scores, such as APACHE, SAPS, MPM, and SOFA.
+Tutorial series for Scrapy Multi-part deep dive tutorial
+Wrote a four part tutorial series showing how to scrape data from popular websites. Talked about how to
+handle websites making heavy use of JavaScript.
+Darshan Chaudhary 1 April 2018
+Education
+BITS Pilani BE (Hons.) Mechanical Engineering · 08/2012 - 06/2016
+University Honors Program. CGPA 7.69/10
+BITS Pilani Minors in Finance · 08/2013 - 06/2016
+University Minors Program. Courses included - Stock Markets, Accounting, Derivatives and Risk management
+Delhi Public School, Gurgaon Higher Secondary Certificate, (Class XII) · 2012
+Percentage achieved: 91.0% · Subjects: Informatics Practices, Maths, Physics, Chemistry
+Delhi Public School, Gurgaon Secondary School Certificate, (Class X) · 2010
+Percentage achieved: 91.2% · Subjects: Maths, Sciences, English
+Computer Skills
+Languages Python, Go, Java, C, Bash
+Domains Data Structures, Algorithms, Operating Systems
+OSs | Databases GNU/Linux | PostgreSQL, MySQL, MongoDB
+Version Control Git
+Cloud Providers Amazon Web Services, Google Cloud
+Containerization | Orchestrators Docker, Kubernetes, Docker Compose
+Miscellaneous
+Organizer of Bangalore Advanced Machine Learning Meetup (1600+ members)
+Gave talks about mortality prediction using ML, reinforcement learning at above mentioned meetup
+Host of The Open Internals Podcast - https://openinternals.com/
+Maintain a blog at https://darshanime.github.io/til
+Emacs evangelist; successfully converted multiple Vim users to Emacs
+Volunteered at the Harvard Model United Nations Conference 2014, Hyderabad
+Built an All Terrain Vehicle (ATV) for participating in SAE BAJA 2015
+Member of various clubs during undergraduate degree including ELAS, Embryo, Bulls and Bears, CRUx
+Darshan Chaudhary 2 April 2018
+

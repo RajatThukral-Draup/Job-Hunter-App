@@ -1,0 +1,43 @@
+PVS NAGARJUN E-mail: nagarjunpvs@gmail.com
+Phone-No:(+91)-9560810961
+Educational Qualifications
+Year Degree/Certificate Institute/School CGPA / %/CPI
+2017 B-Tech(Computer Science) LNM Institute of Information Technology, Jaipur 7.66(CPI)
+2013 Intermediate/+2(CBSE) DAV Public School,Shrestha Vihar, Delhi 92.2%
+2011 Matriculation(CBSE) Green Fields Public School, Delhi 9.8(CGPA)
+Nov’17 - Present
+• Currently working as Software Engineer in Sapient Global Markets.
+May’16 - July’16
+• Worked on the promotions module in django.
+• Modified the module by adding multiple conditions in class, category and sku on different type of coupons .
+• Tested the website on Akamai servers and solved bugs during the replatform phase.
+1) Phishing Website Detector
+• Extracted 18 url based features for each of the 4844 websites and trained the system using random forest
+machine learning algorithm.
+• Analyzed the contributions of features and got an accuracy of 98 % of detecting phishing websites on test data
+containing 484 websites.
+2) Online examination portal using JSP ,SERVELETS and DB2 database
+• In this portal there are two types of users. First is student , he/she can give online exam of one or more
+subjects ,can give feedback of the exam and can answer and put questions on the discussion forum .
+• Second is teacher,who can create /edit exam paper, view results of exam and feedback received from
+students.The teacher can also answer questions on the discussion forum.
+3) Created a 16 bit Instruction Set Architecture
+• Created 76 instructions and assigned opcodes to instructions using expanding opcodes technique.
+• Created assembler in C to convert any program written in above specified isa to machine code.
+4) Analysis of scheduling algorithms and implementing priority scheduling in pintos
+• It involves analysis of average waiting and turnaround time of three scheduling algorithms-:priority
+scheduling ,shortest job first and first come first serve.
+• Implemented priority based scheduling algorithm in pintos by changing the default first come first serve
+for scheduling of processes .
+Git Hub link for all the projects-:https://github.com/rampo123
+Data Structures, C, C++, Sql , Python(basic), Django(basic), Java(Core)
+• Worked as finance convener for sci-tech council in collage.
+Software Engineer, Sapient Global Markets, Bengaluru
+Software Engineering Intern, Teabox, Bengaluru
+Projects
+Programming Skills
+Extra-Curricular Activities
+• Handled the budget of 5 lakhs for the clubs in sci-tech council.
+• Member of year wise cricket team .
+• Ranked among top 2% in AIEEE.
+

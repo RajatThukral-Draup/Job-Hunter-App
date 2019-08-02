@@ -1,0 +1,45 @@
+NIKHIL NAIR
+Course : B.E. (Hons.),Chemical
+Email : nkhl.nr@gmail.com
+Mobile : 7722048355
+ACADEMIC DETAILS
+COURSE SPECIALIZATION INSTITUTE BOARD/UNIVERSITY % /CGPA YEAR
+BE Chemical
+Birla Institute of Technology and
+Science-Pilani, KK Birla Goa
+Campus
+BITS Pilani 7.4 2018
+XII Science Thakur Vidya Mandir HSC 86.92 2014
+X General
+Lokhandwala Foundation
+School
+ICSE 96.43 2012
+TECHNICAL PROFICIENCY
+Python, Spark, Java, C, C++
+INTERNSHIPS/WORK EXPERIENCE
+Draup(Zinnov) Jan 2018 – Jun 2018
+• Conducted ETL(Extract, transform, load) operations of harvested data using Pyspark and MongoDB so that it could be used for
+querying and analysis.
+• Created automated mail sent daily listing required analytics of jobs and news data harvested on that day.
+• Created techstacks of companies using LinkedIn and jobs data.
+• Research conducted to gather data on sector wise headcounts of companies and building a list of products sorted by sector.
+Rashtriya Chemicals and Fertilizers May 2016 - Jul 2016
+• The functioning and plant operations of Nitric Acid Plant, Sewage Treatment Plant and Effluent Treatment Plant was studied.
+ACADEMIC PROJECTS
+Study of Thin Film Nanocomposites(TFNs) for water purification Aug 2016 – Mar 2017
+• Literature review has been done to understand the improvements of membrane properties like permeability, salt rejection and
+pressure variations brought by the introduction of TFNs in RO technology.
+• A manuscript has been prepared giving a summary of desalination, the history of RO technology and thin film composite
+membranes. A detailed analysis of membrane properties and the advantages brought in by the introduction of nanoparticles in the
+membrane is done in the manuscript.
+Microfluidics project- Electrowetting and its application Aug 2016 - Dec 2016
+• Actuation using electrowetting was studied.
+• Various application of elctrowetting was studied. Deformation of a droplet between two plates was simulated.
+Process Design Principles 1- Course Project Aug 2016 - Dec 2016
+• Literature review of various pathways to produce Monoethylene glycol(MEG) from Ethylene oxide, and identifying the most efficient
+process.
+• Applying mass and energy balance to each component in the identified process, and using this data to determine the economic
+potential.
+EXTRA CURRICULAR ACTIVITIES
+History, Badminton, table tennis, running, football, reading
+

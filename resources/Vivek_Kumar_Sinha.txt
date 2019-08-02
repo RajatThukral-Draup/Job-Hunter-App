@@ -1,0 +1,232 @@
+COVER LETTER 
+ 
+ 
+Myself Vivek, and I am not only a Software Engineer cum Project Lead. 
+ 
+Introduction:​ I have worked on multiple technologies starting with Data Science I have worked 
+on large datasets for data manipulation and data mining and then visualize using Python 
+tools.Moving on I have worked on Machine Learning, Basic Deep Learning projects as well.I have 
+exposed to Web Development part as well with Python and Django 
+ 
+ 
+ 
+Career Graph: ​My career graph is an exponential which starts as an Application Engg then 
+Systems Engineer cum Developer cum Data Scientist and now as a Project Lead.At every point I 
+learnt new skills and explored the same to break my boundaries. 
+ 
+Projects in Brief:​ I have worked on Data Science, Machine Learning, Basic Deep Learning and 
+Web Development projects 
+ 
+Last Word:​ I have hunger of learning So, I am looking for such platform where I 
+could explore,contribute my skills with learning new skills. A competitive and 
+challenging environment encourages us to learn,perform,fight and do beyond the 
+best and I want to be that BEST. 
+ 
+VIVEK KUMAR SINHA  
+vivek.unique90@gmail.com  
+Delhi 110096 
+Contact: +9196503732700, +918073046523 
+ 
+OBJECTIVE 
+Seeking a varied and challenging position requiring new and creative applications of 
+technology to solve functional problems. 
+ 
+WORK EXPERIENCE 
+October 2017 -Present Sr. Software Engg., VVDN Tech., Noida 
+Handling a team of size 8 peoples 
+Development with Python and Django 
+Web Testing with Python Selenium 
+Troubleshooting 
+Python Dreamfactory for API creation 
+Postman for API testing 
+Salesforce query and API creation 
+ 
+May 2015-Sep' 17 Systems Engineer, CSS corp pvt. Ltd.   
+June 2015-Sep' 17 Infra Engineer, Inmobi, Bangalore (Client) 
+Operational Task 
+Uptime maintenance of 2000+ servers 
+RAID configurations using RAID controller/megacli and 
+racadm 
+OS installations/VM creation,Kernel Upgrade 
+racadm CLI to automate all admin related stuffs 
+IPAM Rest API to update/create entries into DB. 
+Development Task 
+Python coding for web app creation 
+Upload code on Github and deploy app using Dockerfile 
+HTML,CSS,Bootstrap,JS for Frontend creation 
+Play with API’s 
+Analyst Task 
+Handle Servers data and create report using Python tools 
+Visualize the data using modules for better understanding 
+ 
+Tools Used: Ticketing Tool: Jira 
+Communication Tool: Slack 
+Document Tool: Confluence 
+Version Control; Github 
+Container: Docker 
++918073046523,+919650372700
+Machine Learning Projects:​ ​1.​Tensorflow Image recognition: 
+An application to detect images using system's webcam. 
+Skills: Tensorflow,OpenCV,multiprocessing 
+ 
+2.​System data analysis: 
+A way to handle System data usage like CPU,Memory,hard 
+disk and represent the status using Python modules 
+Skills:Pandas,Numpy,Seaborn,Matplotlib 
+ 
+3​.OpenCV OCR: 
+An application to read text characters from an image or pdf 
+Skills: Google tesseract, OpenCV 
+ 
+Development Projects: 1.​Grid-Pipeline Project: 
+An SSO based web-tool to automate Grid-Pipeline related 
+tasks. 
+Skills:Back-end:Python(Crawling,CGI),OS module, 
+BeautifulSoup, Hadoop,Oozie,Nginx,SSO,HTML,CSS 
+ 
+2. ​Techstop WalkUp Project: 
+A web-app to get user’s detail from AD,create issues using 
+JIRA-API and keep records of assets. 
+Skills::Django,LDAP,Python,JIRA-API,AD,HTML,CSS,JS 
+ 
+3. ​Python Outage Tool: 
+A Dashboard to monitor current ongoing critical issues with 
+Jira and Slack implemented using their API’s. Moreover, to 
+send an outage mail with sendmail module as backend. 
+Skills: Python,Nginx,SMTP,HTML,CSS,Bootstrap,Jira API,Slack 
+API 
+ 
+4.​ Infra Tool: 
+A tool to get hardware related info by using IPAM API. 
+Skills:Python,CGI,Apache,HTML,CSS,Bootstrap,API 
+ 
+5. ​Ad tracker: 
+Django application to track the user’s details and count after 
+checking the ads. Details like location,device IP, 
+location,slides numbers etc. 
+Skills: Django,Python,MySQL,Jquery,JS,Ajax,HTML, 
+CSS,Bootstrap,APIs. 
+ 
+ 
+Feb.2014-April.2015 Application Engineer , Paytm 
+Operating System: Linux(Red-Hat,CentOS) 
+Database: MySql 
+Monitoring Tool:Nagios,EGL 
+Scripting: Bash 
+Queries:SQL 
+Work with OTRS ticketing tools. 
+ 
+EDUCATIONAL QUALIFICATION 
+B.Tech in ECE from PTU in 2013 with 81%  
+ 
+CERTIFICATION 
+Red Hat Certified System Administrator (version 6.4) 140-169-616 2014 
+Red Hat Certified Engineer (version 6.4) 140-169-616 2014 
+ 
+Technical Skills: 
+ 
+Machine Learning and Data Science Skill Sets 
+ 
+Data Science: Numpy , Pandas, Scipy,Modeling,Statistics 
+ 
+Data Visualization:  Matplotlib, Seaborn,Plotly 
+ 
+Algorithms: Linear Regression, Logistic Regression, K Nearest Neighbors  
+Decision Trees and Random Forest, SVM 
+K Mean Clustering 
+ 
+Machine Learning: Scikit-Learn 
+Tensorflow 
+OpenCV Basic DL 
+Reinforcement Learning AutoEncoders 
+Neural Networks Basic NLP 
+ChatBot 
+ 
+Linux: Flavors: RedHat,Ubuntu,CentOS 
+Installation, partition creation and Troubleshooting of Linux 
+servers. 
+Basic Configuration and troubleshooting of various services 
+like LVM,FTP,DHCP 
+LAMP Administrator 
+ 
+ 
+ 
+Language:  Python Basic and Advanced 
+Python-Database relation 
+Modules​:Commands 
+urllib,OS,sys,paramiko,subprocess,pickle, 
+datetime,math,RE,Sendmail,cgi,LDAP,Fabric, 
+mysqldb,tkinter,socket,logging 
+Basic OOPS concepts 
+Python Data types(List/Tuples/Strings/Dictionary) 
+Python Socket/Network programming 
+Python Argument Parser 
+ 
+Web FrameWork: Django 
+Django-Models,ORM 
+Django Admin interface 
+Jinja Templates 
+Django Middleware,Django web-server interface 
+ 
+Web Scraping/Crawling with Python:​Scrapy Module 
+BeautifulSoup 
+Scraping data from URL and modify. 
+Request, Urllib2 
+ 
+Server Management Tool:Ansible 
+IPMItool scripting with Python for server management 
+Fabric 
+Racadm for Dell server management 
+Dell Lifecycle Controller Management 
+ 
+Cloud Platform: AWS basics and principles 
+AWS EC2 Instances setup and configuration 
+ELB settings 
+S3 bucket 
+ 
+SQL Database: Mysql 
+MySql Database creation. 
+MySql Replication setup with master-Slave 
+Basic MySql queries. 
+ 
+NoSQL Database: MongoDB Principle 
+Basics like creation,deletion,insert,count,update etc 
+User Management 
+Replication 
+Backup,RegEX 
+Version Control:  GIT 
+Git Pull/Push 
+Git Commit 
+Git Add/Init 
+Fork 
+Branch 
+ 
+Containers: Docker 
+ 
+Other Skills :Jenkins,Basic Excel Formulas to represent data 
+ 
+Strength Positive Attitude. 
+Self confident. 
+Quick learner. 
+Initiator and Team-player. 
+Hard-worker and Challenge-acceptor. 
+Goal achiever 
+ 
+Awards : Galaxy Award – 2015 (For outstanding perf by CSS) 
+Rising Star Award – 2016 (By CSS) 
+High Flyer Award – 2017 
+Best Performer Award - 2017 
+ 
+Contact Details Linked-in: https://www.linkedin.com/in/vivek-  
+kumar-sinha-6624b369/ 
+Github URL:https://github.com/Vivekdjango 
+Skype ID: vivek.kumar.sinha24 
+ 
+ 
+Declaration 
+I hereby declare that the above mentioned information is correct up to my knowledge 
+and I bear responsibility for the correctness of the above mentioned particulars. 
+ 
+Date: Vivek Kumar Sinha 
+ 
+

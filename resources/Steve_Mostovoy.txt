@@ -1,0 +1,61 @@
+Steve Mostovoy
+[Address withheld on web] • Edison, NJ 08837
+[Phone withheld on web] • SteveMostovoySM@gmail.com
+http://www.stevemostovoy.com/
+Skills
+Languages: C#, Java, C, C++, PHP
+Frameworks: .NET, Swing, Qt
+Web Development: HTML, CSS, JavaScript
+Development Environments: Visual Studio, IntelliJ Idea, Dreamweaver, UNIX
+Version Control: Git, Mercurial, SVN
+Databases: Oracle, SQL, PostgreSQL
+Education
+Rutgers University, New Brunswick
+Junior pursuing a Bachelor of Science in Computer Science, Expected Graduation: May 2015.
+Notable Coursework: Introduction to Artificial Intelligence, Internet Technologies, Compilers, Operating System
+Design, Computer Architecture, Software Methodology, Design and Analysis of Computer Algorithms
+Middlesex County Academy for Science, Mathematics, and Engineering Technologies
+College preparatory magnet school with four years of Electrical Engineering, 2007-2011.
+Work Experience
+PTC Therapeutics, Software Engineering Contractor
+Summer 2011 – Present
+- Built PCR Automation System, a full automation stack to manage three Polymerase Chain Reaction machines.
+Reverse engineered the interface to the machines through disassembly and monitoring.
+- Developed a front-end in C# as a layer of abstraction to communicate with the machines over the network.
+- Created Curve Analyzer, a complex Java application utilizing genetic algorithms to display and inspect large
+amounts of data.
+- Designed a plate rotator on a Debian embedded system, with a webserver customized using shell scripts.
+Peak Analysis and Automation, England, Internship
+Summer 2013
+- Performed a security overhaul of PAA’s Overlord3, updated the internal ordering system, wrote an email
+database client to manage mailing lists, and created a dynamic web front-end for license management.
+- Virtualized and obfuscated existing .NET code, and created a new license data format with RSA encryption.
+- Set up a PostgreSQL database to handle all license information and built .NET libraries for ease of integration in
+future projects.
+- Developed License Manager Suite, a C# application for internal use to manage user licenses through the new
+database.
+- Designed a simple web front-end for end user license retrieval using PHP and a minimal HTTP listener running on
+the database server.
+- Created Email Database Manager in C# with a custom search engine using LINQ to perform dynamic and
+complex searches on any number of fields.
+Projects and Competitions
+- One time 2nd
+place winner and two time participant at HackRU, a 24-hour hackathon.
+- Tetris Bot, a bot in C# for playing a specific version of Tetris online.
+- TouchSynth, an Arduino-based music synthesizer in C++ built for my electrical engineering high
+school senior project.
+- Programmer for Team 3539 using RobotC in FIRST Tech Challenge, an international robotics
+competition for students, achieving Quarter Finalist in World Championships among 1600 teams.
+- NJIT High School Programming Competition as part of a team of three, placing 2nd
+for two
+consecutive years.
+- Billiards, a graphical game of billiards for two players with Qt and C++.
+- Console Chess, a text-based two player game of chess written in C++.
+2012-2014
+2013
+2010-2011
+2010-2011
+2010, 2011
+2009
+2008
+

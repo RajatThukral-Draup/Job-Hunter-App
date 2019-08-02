@@ -1,0 +1,60 @@
+CURRICULUM VITAE 
+Sayan Bhattacharya
+Mobile No.: ​+91 9874423386
+E-mail id: ​sayan.bhattacharya11@gmail.com
+Career Objective: To gain experience by working in a professional environment and to contribute to
+a project by tackling challenging problems and in the process gain deep expertise in technology and
+domain.
+Professional Experience:
+Misys Financial Software: 2015 March to 2017 July Associate Software Engineer
+Fairfest Media: 2017 Aug to Current Software Engineer
+Educational Qualification:
+B.Tech in Computer Engineering
+University:West Bengal University of Technology
+​
+Technical Skills:
+● Python,Elixir,Db2,Flask,Django,MySQL,Java,Git,Redis,Celery,Twisted,
+PostgreSQL,Rabbit-mq,Nginx,Selenium,Data Structures– Proficient
+Behavioral skills: ​I am an agile person who would like to work within a challenging environment
+that may keep on changing with emerging technologies but that’s what I intend to do—to learn new
+things, gain expertise by doing and put them into a concrete model/practice. I’m a fun loving guy
+who loves to work with team members and brainstorm solutions, build on each other’s ideas and
+enjoy solving complex problems. I also like to pursue critical topics through extensive research and
+going deep into a topic. This not only enables me to learn the best way to apply technology to solve
+the issues at hand but also helps me keep myself updated and gain expertise in new topics.
+Projects Undergone in Misys Financial Software [March 2015 to July 2017]
+● Wrote multiple API’s for IPD(Islamic Profit Distribution) a Misys product ,in java for fetching
+Base Code Rates from Essence(Core Banking application) side so that other shared
+applications can get the xml report of the responses accordingly. Used Soap UI for testing
+● Was one of the important contributors for Bug clearing of YOMA Bank’s issues with the
+product for the BFUB 4.2.5.5 release
+● Currently working in the China Requirements project where we are enhancing various core
+banking modules like Fixed Deposit,Multi Currency Account and sub Account inclusion
+feature using Java. For the 5.0 release React framework was used for developing new
+screens
+● Developed the Recurring Deposit Module with the China Team for the 5.0 release
+● Fixed 60 odd issues with for Essence releases from 4.2.3 to 5.0
+ 
+Comparison of VaR values using various models for Misys’ internal Hackathon
+VaR or Value at Risk of an Equity was calculated using Normal Distribution VaR, Monte Carlo VaR,
+Mixture Distribution VaR and Extreme VaR for our Fusion Risk product report using IPython, jupyter
+Notebooks, Anaconda. The project was presented as idea for an internal hackathon which was
+appreciated for being an original work for the product
+● Duration :2 months
+Team Size : 2
+Projects Undergone in Fairfest Media:[Aug 2017 to Current]
+Revamped the existing search of Snapcard application using ElasticSearch.
+Snapcard : - https://getsnapcard.com/
+Built and deployed API’s that were exposed to the Front end using Django.
+Built an OCR service in Flask using Spacy which is a microservice talking to Snapcard.
+Implemented a Couch cache before a relational Postgresql backend for each CRUD
+operation to increase performance.
+Built crawlers to fetch hotel data from various hotel data aggregator websites using
+Python,multithreading,BeautifulSoup,Selenium,Twisted,multiprocessing.Replaced Celery
+with a lightweight Task Queue for asynchronous operations.
+Used AWS S3 for storing images.
+Currently Learning: -​ ​ Elixir to understand better how to program.
+Hobbies and Interests:
+▪ Keeping updated with latest technology trends
+▪ Reading books on various topics
+

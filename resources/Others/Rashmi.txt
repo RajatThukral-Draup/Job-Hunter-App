@@ -1,0 +1,71 @@
+RashmiKumari
+SOFTWARE ENGINEER · ARC DOCUMENTS SOLUTION
+RZ-4 Plot No. 3 Pocket No. 17 Raghunagar New Delhi-110045 India
+ (+91) 9647398472 |  rashmiiitkgp2014@gmail.com |  ras19 |  rashk19
+“Make the change that you want to see in the world.”
+Experience
+ARC Documents Solution Kolkata, India
+SOFTWARE ENGINEER Jul. 2016 - Aug 2017
+• Responsible for implementing, testing, hyper-parameter tuning, regularization and feature selection/reduction for our recommender
+system which is a collaborative filtering based learning model in python.
+• Implemented and improved our spell correction algorithm using deep neural network in python using keras package.
+• Implemented and tested a review classifier and aspect based sentiment classifier in python using gensim and sklearn package.
+• Implemented a log analyzer which is an unsupervised learning model in python using clustering techniques and also responsible for
+cluster validation which was done by using elbow curve.
+• Implemented a multi-threaded photo service in python.
+CDAC Noida, India
+SOFTWARE ASSOCIATE Aug. 2013 - Apr. 2014
+• Responsible for web-site designing in CSS and HTML
+Education
+IITKgp(Indian Institute of Technology Kharagpur) Kharagpur, India
+M.TECH IN COMPUTER SCIENCE & ENGINEERING Jun. 2014 - Jun. 2016
+• Relevant courses - NLP, AI, Advance Graph Theory, Computational Complexity, Cloud Computing.
+• Agg - 7.9
+GGSIPU(Guru Gobind Singh Indraprastha University) New Delhi, India
+B.TECH IN COMPUTER SCIENCE AND ENGINEERING May. 2013 - May. 2014
+• Relevant courses - DS, algorithms, Computer Networks, Operating Systems, Computer Architecture.
+• Agg - 64%
+Research
+IITKgp(Indian Institute of Technology Kharagpur) Kharagpur, India
+M.TECH IN COMPUTER SCIENCE & ENGINEERING Jun. 2014 - Jun. 2016
+• Worked with Prof. Anupam Basu to create a learning model which can classifying documents on the basis of their readability level
+followed by identifying important keywords and linking them to the corresponding web-page which bears the same readability level.
+• Worked on project ’Wikification of NPTEL video lecture transcriptions’, which is an automated entity linking model.
+Projects
+IITKgp(Indian Institute of Technology Kharagpur) Kharagpur, India
+M.TECH IN COMPUTER SCIENCE & ENGINEERING Jun. 2014 - Jun. 2016
+• Extended my M.Tech thesis on images and built an readability based image classifier.
+• Implemented an artificial intelligence learning model for tic-toe game.
+GGSIPU(Guru Gobind Singh Indraprastha University) New Delhi, India
+B.TECH IN COMPUTER SCIENCE AND ENGINEERING May. 2013 - May. 2014
+• Did internship on android project in Center for Development of Advance Computing.
+• Implemented a genetic algorithm for minimum graph coloring as major project and a simple java ide as minor project.
+OCTOBER 23, 2017 RASHMI KUMARI · RÉSUMÉ 1
+Skills
+PROGRAMMING
+• python, ipython, MATLAB, R
+• C, C++, java
+TOOLS
+• Jupyter Notebook, pandas, matplotlib, numpy, scikit-learn, scipy, gensim, git, fasttext, nltk, tensorflow, keras
+Responsibilities
+ROLES
+• Responsible for leading a team of 5 members for the course project ’Wikification of NPTEL vedio transcriptions’. Our project was
+selected as one of the best project in the class of 100+ students.
+• Teaching Assistant of PDS lab for B.tech 1st year student for spring as well as autumn season 2015-2016.
+PARTICIPATION
+• DataDriven dataset challenge 2017.
+• Analytics Vidhya dataset challenge 2017.
+Extra
+COURSES
+• Machine Learning, Neural Network and Deep Learning by Andrew Ng on Coursera.
+• Neural Network and Deep Learning from Udemy.
+PROJECTS
+• Created a learning model which can detect a digit from an image.
+• Imlemented a chatbot using neural network techniques.
+• Sentiment analysis of tweets
+• Review classification of yelp dataset.
+EXTRACURRICULAR
+• Member of dance society and film-making society
+• Winner of writing competition and drawing competition.
+OCTOBER 23, 2017 RASHMI KUMARI · RÉSUMÉ 2
+

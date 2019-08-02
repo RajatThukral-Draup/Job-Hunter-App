@@ -1,0 +1,69 @@
+Genevieve Kua
+Email: gkua@xmail.com.au
+Mobile: 96584412573
+Seeking full-time opportunity in machine learning/data science related role
+A machine learning engineer passionate about cutting-edge technology and solving real-world problems, with
+previous experience in finance managing risk, leading a lean team and developing new products.
+KEY SKILLS
+▪ Machine Learning/Deep Learning ▪ C++
+▪ Computer Vision ▪ MatLab
+▪ Strong coding ability ▪ Source Control (Git)
+▪ Statistical analysis ▪ Python
+▪ Scikit-learn ▪ SciPy
+▪ Pandas ▪ NumPy
+▪ OpenCV
+▪ Tensor Flow, Keras, PyTorch
+EDUCATION
+Monash University
+2014 - 2017
+Bachelor of Science (Computer Science)
+Academic Achievements
+ 2016: Lane Finding and Vehicle Detection and Tracking
+ 2015: Kaggle: The Nature Conservancy Fisheries Monitoring
+ 2014: Open Source MS in Computer Science
+PERSONAL ATTRIBUTES
+✓ Effective Communication Skills: Articulate communicator with an appreciation for the different
+communication styles required when working with team members or customers.
+✓ Honest and Reliable: Strong morals and ethics ensuring honesty, reliability and ability to
+responsibly undertake tasks.
+✓ Flexible: Understanding of the need for flexibility in order to support last-minute demands and changes.
+Comfortable with changing environments and situations, ensuring ability to remain flexible and
+adaptable at all times.
+Genevieve Kua |  Email: gkua@xmail.com.au |  Mobile: 96584412573
+✓ Time Management: Dedication to effective prioritisation and management of time by allocating tasks
+and recording activities in diaries and daily to-do lists.
+WORK EXPERIENCE PLACEMENT
+Alphonso Data Science - Machine Learning Engineer JANUARY 2017 - Present
+Machine Learning Engineer with Data Science firm supporting small businesses optimize their business with AI
+and Data Science.
+Achievements and Contributions
+• Responsible for designing and maintaining a food recommendation system that uses both content-
+based and collaborative-filtering approaches
+•
+• Designed and implemented a graph database using Neo4j, allowing for sophisticated real-time
+product recommendations with a significantly smaller code base
+•
+• Created a synthetic dataset to assist in model development and evaluation during pre-launch of the
+start-up without data acquisition costs
+Testimonial
+“Genevieve worked with our organisation during a 3-month internship opportunity. We selected Genevieve for
+her mature approach to this position and her very strong communication skills. She did not let us down and
+over the 3 months she developed key skills while proactively contributing to the work environment. We wish
+Genevieve all the best of luck in her career and can strongly recommend her as an employee”
+—Mick Smith, Director, Alphonso Data Science.
+VOLUNTEER PLACEMENTS
+Child Support 2010 - 2013
+Provided support during various fundraising activities for local community group. Assisted at events and
+gatherings including providing suggestions to help meet fundraising targets. Personally attended
+various events, including spending time with homeless youth in Melbourne CBD.
+Community Gardens Volunteer, Sao Rejio 2011 - Current
+Worked in community gardens assisting members of the local community with planting and caring for
+allocated sections. Assisted with setup and preparation of community garden, including general repair
+and maintenance works.
+PROFESSIONAL REFEREES
+Joanne Boyle Allan Blue
+Manager Maintenance Manager
+Child Support Sao Rejio Community Gardens
+Phone 8745145654 Phone: 7745699582
+Genevieve Kua |  Email: gkua@xmail.com.au |  Mobile: 96584412573
+

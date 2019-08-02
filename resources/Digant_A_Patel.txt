@@ -1,0 +1,93 @@
+DIGANT A PATEL
+Contact No: +91-9725261127, 7990355234 Email: digantpatel92@gmail.com
+Address: B-24, Hiramoti Society, Skype: digant.patel312
+Chandkheda, Ahmedabad
+OBJECTIVE:
+To work with an Incredible team with whom I can learn, grow, teach, work and share things and who are always ready
+to take initiative for the new challenges.
+WEB RESUME: http://innovativemate.com/bio/
+EXPERIENCE
+SKILLS
+• Vast experience in the field of React JS, Redux, ES5-6, Javascript.
+• Front-end development skills like HTML, CSS, jQuery, Wordpress, Bootstrap, responsive design etc.
+• Data structure and algorithm
+• NodeJS and Express (beginner level)
+TECHNICAL EXPOSURE
+ Developing new user-facing features using React.js
+ Experience with popular React.js workflows such as Redux
+ Developed a demo app using GraphQL and MongoDB with React.
+ Building reusable components and front-end libraries for future use.
+ Translating designs and wireframes into high quality code.
+ Optimizing components for maximum performance across a vast array of web-capable devices and
+browsers.
+ Ability to understand business requirements and translate them into technical requirements.
+ Strong proficiency in JavaScript, including DOM manipulation and the JavaScript object model.
+ Thorough understanding of React.js and its core principles.
+ Familiarity with RESTful APIs.
+ Proficient understanding of code versioning tools, such as GIT.
+COMPANY START DATE END DATE ROLE
+Digistretch June-2014 Currently working
+Front-end Dev,
+REACT JS, Javascript
+developer
+PROJECTS
+ Argomi
+Code: https://github.com/Digant312/Client-Demo
+Technologies/tools used: ReactJS, Redux, ES6, Typescript, Bit-Bucket, JIRA, npm and Visual Studio Code.
+Duration: 8 months
+ Appointment Booking Web App
+Live URL: https://calender-app.herokuapp.com/
+Code: https://github.com/Digant312/Calender_App
+Technologies used: ReactJS, Redux, Redux Form, ES5, Material UI, API handling.
+Duration: 1 month
+ Dynamics G-Ex
+Live URL: https://info.dynamicsgex.com.au/home-page
+Password: 1971soxialweb
+Technologies used: JavaScript, jQuery, HTML5, CSS3, Hubspot, HubDB.
+Duration: 6 months
+Features implemented: Full website developed, Live chat, E-commerce product handling, Product data fetching
+from database, Drag and drop functionality, Product review, Workflow implementation etc.
+ Jatana
+Live URL: https://www.jatana.ai/
+Technologies used: JavaScript, jQuery, HTML5, CSS3, Hubspot, HubDB.
+Duration: 3 months
+Features implemented: Full website developed, pop-up form, API integration with filled form data and database
+integration.
+ Jargon Finder App
+Live URL: https://bit.ly/2Hlmfvv
+Duration: 1 month
+Jargon Finder App is simple web app using Javascript and jQuery, but contains twisted logic. Client need to
+provide text box where user can write/paste their text or paragraphs, application highlights the Jargon phrases
+from it, which is actually stored in server side database, and particular requirement is to compare the whole text
+with the database content (around 700 phrases) every time by calling APIs, also calculates the number of
+occurrence and gives the icon marker to the line containing Jargon phrases.
+ Layer3 TV
+Live URL: https://layer3tv.com/
+Implementation: Full Website development
+Duration: 4 months
+ FurstPerson
+Live URL: https://www.furstperson.com/
+Implementation: Full Website development
+Duration: 3 months
+Furstperson provides the hiring assessment tools and services as per client requirement, makes hiring
+process faster, easier and better. I worked as a front end developer and develop the whole website on hubspot
+using html5, css3, Javascript and jQuery. As the project scope contains some twisted filters and dynamic pages
+based on the data in database, it was the most challenging and motivational part for me.
+ACADEMIC DETAILS
+HOBBIES
+• Coding
+• Reading blogs
+• Hang out with friends
+DECLARATION
+I hereby declare that the above mentioned information is correct up to my knowledge and I bear the
+responsibility for the correctness of the above mentioned particulars.
+Digant A. Patel
+QUALIFICATION UNIVERSITY YEAR RESULT
+B.E(E.C) GTU 2014 8.24
+H.S.C. School of Achiever,
+Gandhinagar
+2010 87.60%
+S.S.C. Mani Praphu High
+School, Ahmedabad
+2008 90.00%
+

@@ -47,35 +47,48 @@ input[type='file'] {
     display: block;
     margin: 10px 5px;
   }
+  .resume-upload-main{
+    text-align: center;
+  }
 }
 </style>
-<h1>
-    Upload Your Resume
-</h1>
-<div class="input-container">
-  <input type="file" id="real-input">
-    <button class="browse-btn">
-      Browse Files
-    </button>
-  <span class="file-info">&nbsp;&nbsp;Upload a file</span>
-</div>
-<button type="button" class="btn btn-primary">Submit</button>
+<center class="jumbotron text-center">
+  <center>
+  <h1>
+      Upload Your Resume
+  </h1></center>
+  <div class="input-container">
+    <input type="file" id="real-input">
+      <button class="browse-btn">
+        Browse Resume
+      </button>
+    <span class="file-info">&nbsp;&nbsp;Upload Resume</span>
+  </div>
+</center>
+<center>
+    <button type="button" class="btn btn-primary btn-lg submit-resume">Submit</button>
+</center>
 <script type="text/javascript">
-    const uploadButton = document.querySelector('.browse-btn');
-const fileInfo = document.querySelector('.file-info');
-const realInput = document.getElementById('real-input');
-
-uploadButton.addEventListener('click', (e) => {
-  realInput.click();
-});
-
-realInput.addEventListener('change', () => {
-  const name = realInput.value.split(/\\|\//).pop();
-  const truncated = name.length > 20
-    ? name.substr(name.length - 20)
-    : name;
-
-  fileInfo.innerHTML = truncated;
-});
+    window.onload = function() {
+       $(".submit-resume").on('click', function(e) {
+        const realInput = document.getElementById('real-input').files;
+        const formData = new FormData();
+        formData.append('file',realInput[0]);
+        $.ajax({
+            method: "POST",
+            url: "/upload_resume",
+            enctype: 'multipart/form-data',
+            processData: false,
+            contentType: false,
+            cache: false,
+            data: formData
+        }).then(function (data) {
+           window.location.href = '/questionnaire';
+        }).catch(function (err) {
+                console.error("An error occurred.");
+                console.error(err);
+            });
+       });
+    }
 </script>
 {% endblock %}

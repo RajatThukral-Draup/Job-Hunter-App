@@ -1,0 +1,381 @@
+{% extends 'layout.html' %}
+{% block body %}
+<style>
+  .item{
+    color:black;
+  }
+  .box{
+    padding: 10px 10px 10px 10px;
+    moz-box-shadow: -5px -5px 5px #888;
+    -webkit-box-shadow: -5px -5px 5px #888;
+    box-shadow: -5px -5px 5px #888;
+  }
+</style>
+<div class="container">
+  <h2>Job x Hunter</h2>
+  <div id="myCarousel" class="carousel slide" data-ride="carousel">
+    <!-- Indicators -->
+    <ol class="carousel-indicators">
+      <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+      <li data-target="#myCarousel" data-slide-to="1"></li>
+      <li data-target="#myCarousel" data-slide-to="2"></li>
+    </ol>
+
+    <!-- Wrapper for slides -->
+    <div class="carousel-inner">
+      <div class="item active">
+        <div class="text-left">
+          <p> Question (1-3)</p>
+          <h3>1. One fine morning, you wake up and find out that you are blessed with a mass of wealth and a few unique
+            skills, what would you do with it?</h3>
+          <form name="question1">
+          <div class="radio">
+            <label><input type="radio" name="optradio" checked value="1_1">Call it a dream and go back to sleep .</label>
+          </div>
+          <div class="radio">
+            <label><input type="radio" name="optradio" value="1_2">Pull a sheet of paper, pick up a pen and start
+              chalking out
+              your dream project.</label>
+          </div>
+          <div class="radio">
+              <label><input type="radio" name="optradio" value="1_3">Eat, roam, spend – call it a day and wake up next
+                morning
+                and go back to your old job.</label>
+          </div>
+          <div class="radio">
+              <label><input type="radio" name="optradio" value="1_4">Be the next in line to become a legend, donate it
+                all to a
+                social cause.</label>
+            </div>
+        </form>
+
+        <h3>2. Click the one you resonate with?</h3>
+          <form name="question2">
+          <div class="radio">
+            <label><input type="radio" value="2_1" name="optradio" checked><img src="static/visionary2_2.jpg" alt=""
+                                                                        height="100"
+                                                                    width="200"></label>
+          </div>
+        <div class="radio">
+            <label><input type="radio" value="2_2" name="optradio"><img src="static/visionary2_1.jpg" alt=""
+                                                                        height="100"
+                                                            width="200"></label>
+        </div>
+            </form>
+      <h3>3. You are more likely to be?</h3>
+          <form id="question3">
+          <div class="radio">
+            <label><input type="radio" name="optradio" checked value="3_1">Futuristic</label>
+          </div>
+        <div class="radio">
+            <label><input type="radio" name="optradio" value="3_1">Present-Oriented</label>
+          </div>
+            </form>
+        </div></div>
+
+      <div class="item">
+        <div class="text-left">
+          <p> Question (4-6)</p>
+          <h3>4. How you will tackle the objection while selling the comb to bald person?</h3>
+          <form name="question4">
+          <div class="radio">
+            <label><input type="radio" name="optradio" checked value="4_1">Stating that: "Begin by always expecting
+              good things
+              to happen."</label>
+          </div>
+          <div class="radio">
+            <label><input type="radio" name="optradio" value="4_2">Back your offer with a hair growth oil.</label>
+          </div>
+          <div class="radio">
+              <label><input type="radio" name="optradio" value="4_3">By finding the closest window to jump out from and leave the place.
+          </label>
+          </div>
+          <div class="radio">
+              <label><input type="radio" name="optradio" value="4_4">Apologize and move on to the next person.</label>
+            </div>
+        </form>
+        <h3>5. Locate yourself ?</h3>
+          <form name="question5">
+            <img src="static/persuasive_2.jpg" alt="" height="200">
+        <div class="radio">
+            <label><input type="radio" name="optradio" checked value="5_1">Speaker</label>
+        </div>
+            <div class="radio">
+            <label><input type="radio" name="optradio" value="5_2">Listener</label>
+        </div>
+            </form>
+      <h3>6. You are more likely to be?</h3>
+          <form id="question6">
+          <div class="radio">
+            <label><input type="radio" name="optradio" checked value="6_1">Influencer</label>
+          </div>
+        <div class="radio">
+            <label><input type="radio" name="optradio" value="6_2">Crowd-follower</label>
+          </div>
+            </form>
+        </div></div>
+
+      <div class="item">
+        <div class="text-left">
+          <p> Question (7-9)</p>
+          <h3>7. When taking a vacation, what would you ideally do?</h3>
+          <form name="question7">
+          <div class="radio">
+            <label><input type="radio" name="optradio" checked value="7_1">Pack a backpack and leave without any
+              planning.</label>
+          </div>
+          <div class="radio">
+            <label><input type="radio" name="optradio" value="7_2">Get to the location and just explore.</label>
+          </div>
+          <div class="radio">
+              <label><input type="radio" name="optradio" value="7_3">Be a typical tourist and follow the crowd.
+          </label>
+          </div>
+          <div class="radio">
+              <label><input type="radio" name="optradio" value="7_4">Read up on the place you are going to, plan an
+                itinerary, take all the necessary safety measures before taking off.</label>
+            </div>
+        </form>
+
+        <h3>8. Which one is your preference ?</h3>
+          <form name="question8">
+          <div class="radio">
+            <label><input type="radio" name="optradio" checked value="8_1">
+              <img src="static/methodical2_1.jpg" alt="" height="100" width="200"></label>
+          </div>
+        <div class="radio">
+            <label><input type="radio" name="optradio" value="8_2">
+              <img src="static/methodical2_2.jpg" alt="" height="100" width="200"></label>
+        </div>
+            </form>
+      <h3>9. Which is you forte?</h3>
+          <form id="question9">
+          <div class="radio">
+            <label><input type="radio" name="optradio" checked value="9_1">Organised</label>
+          </div>
+        <div class="radio">
+            <label><input type="radio" name="optradio" value="9_2">Spontaneous</label>
+          </div>
+            </form>
+        </div></div>
+
+      <div class="item">
+        <div class="text-left">
+          <p> Question (10-12)</p>
+          <h3>10. On a team dinner with your colleagues, would you rather... ?</h3>
+          <form name="question10">
+          <div class="radio">
+            <label><input type="radio" name="optradio" checked value="10_1">Go with the majority.</label>
+          </div>
+          <div class="radio">
+            <label><input type="radio" name="optradio" value="10_2">Order all you like.</label>
+          </div>
+          <div class="radio">
+                <label><input type="radio" name="optradio" value="10_3">Match your order to accommodate others
+                  preferences.
+          </label>
+          </div>
+          <div class="radio">
+              <label><input type="radio" name="optradio" value="10_4">Be fussy over the orders.
+            </label>
+            </div>
+        </form>
+
+        <h3>11. Click the one you resonate with ?</h3>
+          <form name="question11">
+          <div class="radio">
+            <label><input type="radio" name="optradio" checked value="11_1">
+              <img src="static/agreeable2_1.jpg" alt="" height="100" width="200"></label>
+          </div>
+        <div class="radio">
+            <label><input type="radio" name="optradio" value="11_2">
+              <img src="static/agreeable2_2.jpg" alt="" height="100" width="200"></label>
+        </div>
+          </form>
+
+      <h3>12. You are more likely to be? </h3>
+          <form id="question12">
+          <div class="radio">
+            <label><input type="radio" name="optradio" checked value="12_1">Cooperative</label>
+          </div>
+        <div class="radio">
+            <label><input type="radio" name="optradio" value="12_2">Individualistic</label>
+          </div>
+            </form>
+        </div></div>
+
+      <div class="item">
+        <div class="text-left">
+          <p> Question (13-15)</p>
+          <h3>13. If were stranded on an un-inhabited island with very little resources to reach the main land, what would you do?</h3>
+          <form name="question13">
+          <div class="radio">
+            <label><input type="radio" name="optradio" checked value="13_1">Consider it my fate and be prepared to
+              see the end of
+              me.</label>
+          </div>
+          <div class="radio">
+            <label><input type="radio" name="optradio" value="13_2">Pray for a miracle.</label>
+          </div>
+          <div class="radio">
+                <label><input type="radio" name="optradio" value="13_3">Try to survive with whatever little is available.
+          </label>
+          </div>
+          <div class="radio">
+              <label><input type="radio" name="optradio" value="13_4">Jump into the water, challenge the waves and try
+                to reach the nearest human habitation.
+            </label>
+            </div>
+        </form>
+
+        <h3>14. What you like more ?</h3>
+          <form name="question14">
+          <div class="radio">
+            <label><input type="radio" name="optradio" checked value="14_1">
+              <img src="static/agility2_1.jpeg" alt="" height="100" width="200"></label>
+          </div>
+        <div class="radio">
+            <label><input type="radio" name="optradio" value="14_2">
+              <img src="static/agility2_2.png" alt="" height="100" width="200"></label>
+        </div>
+            </form>
+      <h3>15. You describe yourself as?? </h3>
+          <form id="question15">
+          <div class="radio">
+            <label><input type="radio" name="optradio" checked value="15_1">Go-getter</label>
+          </div>
+        <div class="radio">
+            <label><input type="radio" name="optradio" value="15_2">Daydreamer</label>
+          </div>
+            </form>
+        </div></div>
+
+      <div class="item">
+        <div class="text-left">
+          <p> Question (16-18)</p>
+          <h3>16. If a friend approaches you in times of distress, what would you rather do?</h3>
+          <form name="question16">
+          <div class="radio">
+            <label><input type="radio" name="optradio" checked value="16_1">Gather resources to help them out and let
+              them resume
+              independently there after.</label>
+          </div>
+          <div class="radio">
+            <label><input type="radio" name="optradio" value="16_2">Tell him/her you would have loved to help but you
+              don’t
+              have
+              time.</label>
+          </div>
+          <div class="radio">
+                <label><input type="radio" name="optradio" value="16_3">Be there for them and do all you can, to be
+                  of help.
+          </label>
+          </div>
+          <div class="radio">
+              <label><input type="radio" name="optradio" value="16_4">Refer them to another person who could be of help.
+            </label>
+            </div>
+        </form>
+
+        <h3>17. You describe yourself as?? </h3>
+          <form id="question17">
+            <img src="static/reliant2.png" alt="" width="200">
+          <div class="radio">
+            <label><input type="radio" name="optradio" checked value="17_1">To trust</label>
+          </div>
+        <div class="radio">
+            <label><input type="radio" name="optradio" value="17_2">To be trusted</label>
+          </div>
+            </form>
+           <h3>18. What you are?? </h3>
+          <form id="question18">
+          <div class="radio">
+            <label><input type="radio" name="optradio" checked value="18_1">Loyal</label>
+          </div>
+        <div class="radio">
+            <label><input type="radio" name="optradio" value="18_2">Detached</label>
+          </div>
+            </form>
+        </div></div>
+
+      <div class="item">
+        <div class="text-left">
+          <p> Question (19-21)</p>
+          <h3>19. You’ve been given an elephant. You can’t give it away or sell it. What would you do with the
+            elephant?</h3>
+          <form name="question19">
+          <div class="radio">
+            <label><input type="radio" name="optradio" checked value="19_1">Since I don't have a place to put an
+              elephant, I'd
+              probably send it on vacation.</label>
+          </div>
+          <div class="radio">
+            <label><input type="radio" name="optradio" value="19_2">I would feed it, and then ride it to work.</label>
+          </div>
+          <div class="radio">
+                <label><input type="radio" name="optradio" value="19_3">I would use it as a couch to watch a movie.
+          </label>
+          </div>
+          <div class="radio">
+              <label><input type="radio" name="optradio" value="19_4">I would train it to guard my house.
+            </label>
+            </div>
+        </form>
+
+        <h3>20. Which side you use more ?</h3>
+          <form name="question20">
+            <img src="static/creative2.jpg" alt="" width="200">
+          <div class="radio">
+            <label><input type="radio" name="optradio" checked value="20_1">Right Side</label>
+          </div>
+        <div class="radio">
+            <label><input type="radio" name="optradio" value="20_2">Left Side</label>
+        </div>
+            </form>
+      <h3>21. What’s your forte? </h3>
+          <form id="question21">
+          <div class="radio">
+            <label><input type="radio" name="optradio" checked value="21_1">Unconventional</label>
+          </div>
+        <div class="radio">
+            <label><input type="radio" name="optradio" value="21_2">Structured</label>
+          </div>
+            </form>
+
+          <button class="btn btn-primary btn-lg" id="save-submit-question">Save & Submit</button>
+        </div></div>
+
+    </div>
+    <a class="right carousel-control" href="#myCarousel" data-slide="next">
+      <span class="glyphicon glyphicon-chevron-right"></span>
+      <span class="sr-only">Next</span>
+    </a>
+  </div>
+</div>
+<script type="text/javascript">
+    window.onload = function() {
+       $("#save-submit-question").on('click', function(e) {
+        var ele = document.getElementsByName('optradio');
+        var qa = new Array()
+        for(i = 0; i < ele.length; i++) {
+               if(ele[i].checked){
+               qa.push(ele[i].value)
+               }
+           }
+        debugger;
+        console.log(qa)
+        $.ajax({
+            method: "POST",
+            url: "/upload_qa",
+            dataType: "json",
+            data: {"qa":qa}
+        }).then(function (data) {
+          window.location.href = '/analyzed_jobs';;
+        }).catch(function (err) {
+                console.error("An error occurred.");
+                console.error(err);
+            });
+       });
+    }
+</script>
+{% endblock %}
